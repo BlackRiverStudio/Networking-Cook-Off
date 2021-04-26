@@ -1,18 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class PlayerController : MonoBehaviour
+using UnityEngine.InputSystem;
+namespace CookOff
 {
-    // Start is called before the first frame update
-    void Start()
+    public class PlayerController : MonoBehaviour
     {
-        
-    }
+        PlayerInput input;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        [SerializeField]InputActionReference moveAction;
+
+        private void Start()
+        {
+            moveAction.action.ReadValue<Vector2>();
+        }
+
+        private void Update()
+        {
+            transform.position += transform.right * Time.deltaTime * moveAction.action.ReadValue<Vector2>().x;
+            transform.position += transform.forward * Time.deltaTime * moveAction.action.ReadValue<Vector2>().y;
+        }
     }
 }
