@@ -1,0 +1,837 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 32645 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/lalal/OneDrive - TAFE NSW/Diploma GIT/Networking-Cook-Off
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63975
+Successfully changed project path to: C:/Users/lalal/OneDrive - TAFE NSW/Diploma GIT/Networking-Cook-Off
+C:/Users/lalal/OneDrive - TAFE NSW/Diploma GIT/Networking-Cook-Off
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/lalal/OneDrive - TAFE NSW/Diploma GIT/Networking-Cook-Off/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 with Max-Q Design (ID=0x1f50)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002448 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 64.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.847 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005389 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Find all reader and writers took 171 milliseconds
+Script Module: UnityEngine.UI.dll
+Weave behaviours and messages took150 milliseconds
+Find all reader and writers took 143 milliseconds
+Script Module: UnityEngine.TestRunner.dll
+Weave behaviours and messages took50 milliseconds
+Find all reader and writers took 134 milliseconds
+Script Module: SimpleWebTransport.dll
+Weave behaviours and messages took16 milliseconds
+Find all reader and writers took 138 milliseconds
+Script Module: Unity.Timeline.dll
+Weave behaviours and messages took70 milliseconds
+Find all reader and writers took 161 milliseconds
+Script Module: Mirror.Examples.dll
+[Projectile] NetworkBehaviourProcessor
+[Tank] NetworkBehaviourProcessor
+[NetworkRoomPlayer] NetworkBehaviourProcessor
+[NetworkRoomPlayerExt] NetworkBehaviourProcessor
+[PlayerController] NetworkBehaviourProcessor
+[PlayerScore] NetworkBehaviourProcessor
+[RandomColor] NetworkBehaviourProcessor
+[Reward] NetworkBehaviourProcessor
+[AddForce] NetworkBehaviourProcessor
+[Ball] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+[MatchController] NetworkBehaviourProcessor
+[PhysicsCollision] NetworkBehaviourProcessor
+[PlayerController] NetworkBehaviourProcessor
+[PlayerScore] NetworkBehaviourProcessor
+[RandomColor] NetworkBehaviourProcessor
+[Reward] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+[MonsterMovement] NetworkBehaviourProcessor
+[PlayerMovement] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+[PlayerController] NetworkBehaviourProcessor
+[RandomColor] NetworkBehaviourProcessor
+[ShootingTankBehaviour] NetworkBehaviourProcessor
+Weave behaviours and messages took38 milliseconds
+  ProcessSitesModule Mirror.Examples.dll elapsed time:00:00:00.0109703
+Find all reader and writers took 139 milliseconds
+Script Module: Mirror.Components.dll
+[NetworkAnimator] NetworkBehaviourProcessor
+[NetworkRoomPlayer] NetworkBehaviourProcessor
+[NetworkLobbyPlayer] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkVisibility] Found NetworkBehaviour Mirror.NetworkVisibility
+[NetworkVisibility] Process Start
+[NetworkVisibility]   GenerateSerialization
+[NetworkVisibility]   GenerateDeSerialization
+[NetworkVisibility] Process Done
+[NetworkMatchChecker] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkOwnerChecker] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkProximityChecker] NetworkBehaviourProcessor
+[NetworkRoomPlayer] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkSceneChecker] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransform] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformChild] NetworkBehaviourProcessor
+[NetworkLerpRigidbody] NetworkBehaviourProcessor
+[NetworkRigidbody] NetworkBehaviourProcessor
+[NetworkRigidbody2D] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransform] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformChild] NetworkBehaviourProcessor
+Weave behaviours and messages took43 milliseconds
+  ProcessSitesModule Mirror.Components.dll elapsed time:00:00:00.0019789
+Find all reader and writers took 130 milliseconds
+Script Module: Mirror.Tests.Common.dll
+Weave behaviours and messages took3 milliseconds
+Find all reader and writers took 174 milliseconds
+Script Module: Unity.TextMeshPro.dll
+Weave behaviours and messages took175 milliseconds
+Find all reader and writers took 136 milliseconds
+Script Module: Mirror.Tests.Runtime.dll
+Weave behaviours and messages took11 milliseconds
+Find all reader and writers took 137 milliseconds
+Script Module: Telepathy.dll
+Weave behaviours and messages took9 milliseconds
+Find all reader and writers took 140 milliseconds
+Script Module: Mirror.Authenticators.dll
+Weave behaviours and messages took8 milliseconds
+  ProcessSitesModule Mirror.Authenticators.dll elapsed time:00:00:00
+Find all reader and writers took 145 milliseconds
+Script Module: Assembly-CSharp.dll
+[WakabaPlayerNet] NetworkBehaviourProcessor
+Weave behaviours and messages took10 milliseconds
+Find all reader and writers took 136 milliseconds
+Script Module: kcp2k.dll
+Weave behaviours and messages took8 milliseconds
+Find all reader and writers took 132 milliseconds
+Script Module: Mirror.Examples.Cloud.GUI.dll
+Weave behaviours and messages took8 milliseconds
+Find all reader and writers took 135 milliseconds
+Script Module: Mirror.Cloud.dll
+Weave behaviours and messages took9 milliseconds
+Find all reader and writers took 136 milliseconds
+Script Module: Mirror.Examples.Cloud.Pong.dll
+[Ball] NetworkBehaviourProcessor
+[BallManager] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+Weave behaviours and messages took4 milliseconds
+  ProcessSitesModule Mirror.Examples.Cloud.Pong.dll elapsed time:00:00:00
+Find all reader and writers took 135 milliseconds
+Script Module: Mirror.Tests.Performance.Runtime.dll
+Weave behaviours and messages took0 milliseconds
+Find all reader and writers took 195 milliseconds
+Script Module: UnityEditor.TestRunner.dll
+Weave behaviours and messages took80 milliseconds
+Find all reader and writers took 182 milliseconds
+Script Module: UnityEditor.UI.dll
+Weave behaviours and messages took28 milliseconds
+Find all reader and writers took 190 milliseconds
+Script Module: Mirror.Tests.dll
+[EmptyBehaviour] NetworkBehaviourProcessor
+[SyncVarGameObjectEqualExposedBehaviour] NetworkBehaviourProcessor
+[SyncVarNetworkIdentityEqualExposedBehaviour] NetworkBehaviourProcessor
+[NetworkBehaviourSendCommandInternalComponent] NetworkBehaviourProcessor
+[NetworkBehaviourSendRPCInternalComponent] NetworkBehaviourProcessor
+[NetworkBehaviourSendTargetRPCInternalComponent] NetworkBehaviourProcessor
+[NetworkBehaviourDelegateComponent] NetworkBehaviourProcessor
+[NetworkBehaviourSetSyncVarGameObjectComponent] NetworkBehaviourProcessor
+[NetworkBehaviourGetSyncVarGameObjectComponent] NetworkBehaviourProcessor
+[NetworkBehaviourSetSyncVarNetworkIdentityComponent] NetworkBehaviourProcessor
+[NetworkBehaviourGetSyncVarNetworkIdentityComponent] NetworkBehaviourProcessor
+[NetworkBehaviourInitSyncObjectExposed] NetworkBehaviourProcessor
+[OnStopClientComponent] NetworkBehaviourProcessor
+[OnStartClientComponent] NetworkBehaviourProcessor
+[OnStartLocalPlayerComponent] NetworkBehaviourProcessor
+[NetworkBehaviourHookGuardTester] NetworkBehaviourProcessor
+[NetworkBehaviourInitSyncObjectTester] NetworkBehaviourProcessor
+[CommandTestNetworkBehaviour] NetworkBehaviourProcessor
+[RpcTestNetworkBehaviour] NetworkBehaviourProcessor
+[OnStartClientTestNetworkBehaviour] NetworkBehaviourProcessor
+[OnStopClientTestNetworkBehaviour] NetworkBehaviourProcessor
+[TestObjectBehaviour] NetworkBehaviourProcessor
+[TestPlayerBehaviour] NetworkBehaviourProcessor
+[HookBehaviour] NetworkBehaviourProcessor
+[GameObjectHookBehaviour] NetworkBehaviourProcessor
+[NetworkIdentityHookBehaviour] NetworkBehaviourProcessor
+[NetworkBehaviourHookBehaviour] NetworkBehaviourProcessor
+[StaticHookBehaviour] NetworkBehaviourProcessor
+[VirtualHookBase] NetworkBehaviourProcessor
+[VirtualHookBase] NetworkBehaviourProcessor
+[VirtualOverrideHook] NetworkBehaviourProcessor
+[AbstractHookBase] NetworkBehaviourProcessor
+[AbstractHookBase] NetworkBehaviourProcessor
+[AbstractHook] NetworkBehaviourProcessor
+[MockPlayer] NetworkBehaviourProcessor
+[SyncVarGameObject] NetworkBehaviourProcessor
+[SyncVarNetworkIdentity] NetworkBehaviourProcessor
+[SyncVarTransform] NetworkBehaviourProcessor
+[SyncVarNetworkBehaviour] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[BehaviourWithSyncVar] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[OverrideBehaviourFromSyncVar] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[OverrideBehaviourWithSyncVarFromSyncVar] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[MiddleClass] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[MiddleClass] NetworkBehaviourProcessor
+[SubClass] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[MiddleClassWithSyncVar] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[MiddleClassWithSyncVar] NetworkBehaviourProcessor
+[SubClassFromSyncVar] NetworkBehaviourProcessor
+[BehaviourWithSyncVarWithOnSerialize] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[OverrideBehaviourFromSyncVarWithOnSerialize] NetworkBehaviourProcessor
+[AbstractBehaviour] NetworkBehaviourProcessor
+[OverrideBehaviourWithSyncVarFromSyncVarWithOnSerialize] NetworkBehaviourProcessor
+[AttributeBehaviour_NetworkBehaviour] NetworkBehaviourProcessor
+[DataSenderBehaviour] NetworkBehaviourProcessor
+[PayloadTestBehaviour] NetworkBehaviourProcessor
+[BehaviourWithEvents] NetworkBehaviourProcessor
+[VirtualClientRpc] NetworkBehaviourProcessor
+[VirtualClientRpc] NetworkBehaviourProcessor
+[VirtualNoOverrideClientRpc] NetworkBehaviourProcessor
+[VirtualClientRpc] NetworkBehaviourProcessor
+[VirtualOverrideClientRpc] NetworkBehaviourProcessor
+[VirtualClientRpc] NetworkBehaviourProcessor
+[VirtualOverrideClientRpcWithBase] NetworkBehaviourProcessor
+[ClientRpcBehaviour] NetworkBehaviourProcessor
+[ExcludeOwnerBehaviour] NetworkBehaviourProcessor
+[VirtualCommand] NetworkBehaviourProcessor
+[VirtualCommand] NetworkBehaviourProcessor
+[VirtualNoOverrideCommand] NetworkBehaviourProcessor
+[VirtualCommand] NetworkBehaviourProcessor
+[VirtualOverrideCommand] NetworkBehaviourProcessor
+[VirtualCommand] NetworkBehaviourProcessor
+[VirtualOverrideCommandWithBase] NetworkBehaviourProcessor
+[VirtualCommand] NetworkBehaviourProcessor
+[VirtualOverrideCommandWithBase] NetworkBehaviourProcessor
+[VirtualOverrideCommandWithBase2] NetworkBehaviourProcessor
+[AuthorityBehaviour] NetworkBehaviourProcessor
+[IgnoreAuthorityBehaviour] NetworkBehaviourProcessor
+[SenderConnectionBehaviour] NetworkBehaviourProcessor
+[SenderConnectionIgnoreAuthorityBehaviour] NetworkBehaviourProcessor
+[ThrowBehaviour] NetworkBehaviourProcessor
+[RpcNetworkIdentityBehaviour] NetworkBehaviourProcessor
+[VirtualTargetRpc] NetworkBehaviourProcessor
+[VirtualTargetRpc] NetworkBehaviourProcessor
+[VirtualNoOverrideTargetRpc] NetworkBehaviourProcessor
+[VirtualTargetRpc] NetworkBehaviourProcessor
+[VirtualOverrideTargetRpc] NetworkBehaviourProcessor
+[VirtualTargetRpc] NetworkBehaviourProcessor
+[VirtualOverrideTargetRpcWithBase] NetworkBehaviourProcessor
+[TargetRpcBehaviour] NetworkBehaviourProcessor
+Weave behaviours and messages took202 milliseconds
+  ProcessSitesModule Mirror.Tests.dll elapsed time:00:00:00.0139635
+Find all reader and writers took 147 milliseconds
+Script Module: WeaverTestExtraAssembly.dll
+Weave behaviours and messages took2 milliseconds
+  ProcessSitesModule WeaverTestExtraAssembly.dll elapsed time:00:00:00.0009972
+Find all reader and writers took 168 milliseconds
+Script Module: Mirror.CompilerSymbols.dll
+Weave behaviours and messages took0 milliseconds
+Mono: successfully reloaded assembly
+- Completed reload, in 10.840 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1488 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.0 MB.
+System memory in use after: 72.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1930.
+Total: 4.926700 ms (FindLiveObjects: 0.238600 ms CreateObjectMapping: 0.080000 ms MarkObjects: 4.494100 ms  DeleteObjects: 0.112300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Packages/Low Poly/Models/fridge.obj
+  artifactKey: Guid(a837ba11164b29648ab69564de94fa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/fridge.obj using Guid(a837ba11164b29648ab69564de94fa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0680a0d9746676c10ec61c74077ead07') in 0.203690 seconds
+  Import took 0.206519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Packages/Low Poly/Models/cooking pot.png
+  artifactKey: Guid(19d4dfa317040d4489bcf44aeb956703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/cooking pot.png using Guid(19d4dfa317040d4489bcf44aeb956703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f138f5cdaf052f4d1563e2c71a80299') in 0.039248 seconds
+  Import took 0.041654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Packages/Low Poly/Models/glass.png
+  artifactKey: Guid(b0666f70a12dad049bbd2d259e7db97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/glass.png using Guid(b0666f70a12dad049bbd2d259e7db97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024592196529c7a17bf7779df782b5be') in 0.011972 seconds
+  Import took 0.015433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_sink.obj
+  artifactKey: Guid(d3e6abd48d90d4e418d3d2ced9e0b6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_sink.obj using Guid(d3e6abd48d90d4e418d3d2ced9e0b6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bcae6918c5d5da9273a7a9aa0e5605e') in 0.055058 seconds
+  Import took 0.057646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Packages/Low Poly/Models/cooking pot.obj
+  artifactKey: Guid(19e8f6ae4592f114098b8b949511d596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/cooking pot.obj using Guid(19e8f6ae4592f114098b8b949511d596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642844e57c00105b86d6eb1e3e0dfa1b') in 0.051576 seconds
+  Import took 0.054456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Packages/Low Poly/Models/fridge_door.png
+  artifactKey: Guid(54153ed103b921940ae4d03118c9bf18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/fridge_door.png using Guid(54153ed103b921940ae4d03118c9bf18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51508a19c55799d8b80cd00a80ee5203') in 0.009675 seconds
+  Import took 0.012200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Packages/Low Poly/Models/fork.obj
+  artifactKey: Guid(23d80b1447aa2424cbcc30f7785b14d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/fork.obj using Guid(23d80b1447aa2424cbcc30f7785b14d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87170e025ed880902b2d008269c609c') in 0.046087 seconds
+  Import took 0.049007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Packages/Low Poly/Models/glass.obj
+  artifactKey: Guid(42e1682725fa9d2488eecd65dfa82f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/glass.obj using Guid(42e1682725fa9d2488eecd65dfa82f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3d5793ebbb59903d9392e1f4aeb5d38') in 0.044466 seconds
+  Import took 0.046891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand 3.png
+  artifactKey: Guid(edfd34281f5d5a041a34a7e6b5fec396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand 3.png using Guid(edfd34281f5d5a041a34a7e6b5fec396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49cbbd45ea6df3c9916dea5f97e04f24') in 0.012106 seconds
+  Import took 0.014486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Packages/Low Poly/Models/fork.png
+  artifactKey: Guid(d91e74f19dac018449507259f5b2c9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/fork.png using Guid(d91e74f19dac018449507259f5b2c9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '933c2ab98940aab0b36603ddced56e34') in 0.006395 seconds
+  Import took 0.008933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Packages/Low Poly/Models/fridge.png
+  artifactKey: Guid(c846ee341e1538645b0f06bb9a533552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/fridge.png using Guid(c846ee341e1538645b0f06bb9a533552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887fded19a2efd3475ade64e69d81530') in 0.008633 seconds
+  Import took 0.011324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Packages/Low Poly/Models/fridge_door.obj
+  artifactKey: Guid(6840c00c49703904788dc000ca1cea35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/fridge_door.obj using Guid(6840c00c49703904788dc000ca1cea35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd97cb58c717c07df7f78f59fa886b3b') in 0.033853 seconds
+  Import took 0.036795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand 2.png
+  artifactKey: Guid(c06416d49d594464197b37bf2540c8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand 2.png using Guid(c06416d49d594464197b37bf2540c8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6f41e1f54f58154b0351e8be3cf82d') in 0.011606 seconds
+  Import took 0.013960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_sink.png
+  artifactKey: Guid(3133d2489d41e104eb6a963c55290441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_sink.png using Guid(3133d2489d41e104eb6a963c55290441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7519bc4e8d1513f6beea515ce269f8f') in 0.007107 seconds
+  Import took 0.009628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Packages/Low Poly/Models/frying pan.obj
+  artifactKey: Guid(c070fee512c1cce4db4b33585251e97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/frying pan.obj using Guid(c070fee512c1cce4db4b33585251e97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f353220c9deee09982a6c265be2b9b5') in 0.038504 seconds
+  Import took 0.041455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand 3.obj
+  artifactKey: Guid(30da8ff4471b5d74c9750fbf3c807ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand 3.obj using Guid(30da8ff4471b5d74c9750fbf3c807ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5932dd348aa07d5901e7d96a297bc8') in 0.032126 seconds
+  Import took 0.035520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Packages/Low Poly/Models/frying pan.png
+  artifactKey: Guid(5ac2eac825bcd0b4bb346686787968cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/frying pan.png using Guid(5ac2eac825bcd0b4bb346686787968cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5fc26110bd495f340d224441d90a076') in 0.006474 seconds
+  Import took 0.008897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand 2.obj
+  artifactKey: Guid(812637a918625424699a2312fcc01fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand 2.obj using Guid(812637a918625424699a2312fcc01fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5effbf996ca63f6aec5a65de5591014c') in 0.024226 seconds
+  Import took 0.026648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.143197 seconds.
+  path: Assets/Packages/Low Poly/Models/chair.obj
+  artifactKey: Guid(b6a1de460b9d70a419358503705d942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/chair.obj using Guid(b6a1de460b9d70a419358503705d942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0764867542180b0f6c9857724fc890') in 0.027628 seconds
+  Import took 0.030065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Packages/Low Poly/Models/champagne cup.png
+  artifactKey: Guid(f665752b28222b346a81138fc4780819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/champagne cup.png using Guid(f665752b28222b346a81138fc4780819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0833166fa6a4091c11076e2290d12762') in 0.009180 seconds
+  Import took 0.011483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Packages/Low Poly/Models/champagne cup.obj
+  artifactKey: Guid(42c00ece5a4bcfb47bc206d6f0a46590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/champagne cup.obj using Guid(42c00ece5a4bcfb47bc206d6f0a46590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c630e2cb6606551ae3c6b350cac5f2d5') in 0.048322 seconds
+  Import took 0.050935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Packages/Low Poly/Models/chair.png
+  artifactKey: Guid(0303075344a6e9541a08aa3c75dfa843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/chair.png using Guid(0303075344a6e9541a08aa3c75dfa843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac088e2c278d76598f758e4e4ac0b748') in 0.009076 seconds
+  Import took 0.011273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Packages/Low Poly/Models/cooking pot 2.png
+  artifactKey: Guid(d3301691c81ffb14d90e4f61c4bdbb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/cooking pot 2.png using Guid(d3301691c81ffb14d90e4f61c4bdbb5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b05125f77ad2a47961bbefa3639186') in 0.016819 seconds
+  Import took 0.019606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Packages/Low Poly/Models/cooking pot 2.obj
+  artifactKey: Guid(aa14a5ce723a25249a57d63d9f70fef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/cooking pot 2.obj using Guid(aa14a5ce723a25249a57d63d9f70fef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39de96d547857fee23ea2217bd4bfec6') in 0.039420 seconds
+  Import took 0.042775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.614506 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand door 2.obj
+  artifactKey: Guid(d1f9ad8202f4c394d8fbe3cb94dd9f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand door 2.obj using Guid(d1f9ad8202f4c394d8fbe3cb94dd9f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e23fb8b11df8636724561771a54f7b') in 0.029156 seconds
+  Import took 0.033467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand door.obj
+  artifactKey: Guid(c35f6537c600cd64c922280c6cb3c3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand door.obj using Guid(c35f6537c600cd64c922280c6cb3c3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f1f80e70fac8e5652865c5ff473827') in 0.025293 seconds
+  Import took 0.028786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand door 2.png
+  artifactKey: Guid(72802928afb57cc47b698c66b0bce4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand door 2.png using Guid(72802928afb57cc47b698c66b0bce4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb25b7df1edfe41ff313613b849cac9') in 0.007634 seconds
+  Import took 0.011402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand.obj
+  artifactKey: Guid(405fe97d9177f054fbc378e49aaf8520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand.obj using Guid(405fe97d9177f054fbc378e49aaf8520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377248da8f170a0edfcbbe4338c6ffcc') in 0.045399 seconds
+  Import took 0.048321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand.png
+  artifactKey: Guid(6624691c55d79204e9c4a6079c3a4daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand.png using Guid(6624691c55d79204e9c4a6079c3a4daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289d6afae20d5e790bebccc2ab2e9f9c') in 0.007270 seconds
+  Import took 0.010471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Packages/Low Poly/Models/kitchen_stand door.png
+  artifactKey: Guid(4e5adf757600fbb4badda4953bf3dee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/kitchen_stand door.png using Guid(4e5adf757600fbb4badda4953bf3dee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ebfccda61de70a8ffaf728673a9a98') in 0.008143 seconds
+  Import took 0.011866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.232078 seconds.
+  path: Assets/Packages/Low Poly/Models/knife.obj
+  artifactKey: Guid(8048c1f5000214742a1e0a457b039d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/knife.obj using Guid(8048c1f5000214742a1e0a457b039d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b016d549519e4a63599c2e43fd0b49') in 0.026454 seconds
+  Import took 0.028978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Packages/Low Poly/Models/long table.png
+  artifactKey: Guid(7895a78209e35f143947c27b95261290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/long table.png using Guid(7895a78209e35f143947c27b95261290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c443bbcdcc005079bded1e3f8e701a9b') in 0.014334 seconds
+  Import took 0.016630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Packages/Low Poly/Models/long table.obj
+  artifactKey: Guid(226f3459b674c534da569f85f927c27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/long table.obj using Guid(226f3459b674c534da569f85f927c27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3dac64a0d45363b0d6eeebe6b766d1') in 0.026761 seconds
+  Import took 0.029476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Packages/Low Poly/Models/microwave door 2.png
+  artifactKey: Guid(705638717ba4ccc4a8c3a5adf1b4f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/microwave door 2.png using Guid(705638717ba4ccc4a8c3a5adf1b4f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b979d4c1dafc6d8aa38efbdcbf0cf17') in 0.013105 seconds
+  Import took 0.016021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Packages/Low Poly/Models/knife.png
+  artifactKey: Guid(b7228de4c6f009a4991847ae6b452c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/knife.png using Guid(b7228de4c6f009a4991847ae6b452c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c00c3cc296125fbb90b0a72a81a1595') in 0.009765 seconds
+  Import took 0.012098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Packages/Low Poly/Models/microwave door 2.obj
+  artifactKey: Guid(21015743ec869444fa7abb0b7fbbbfaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Models/microwave door 2.obj using Guid(21015743ec869444fa7abb0b7fbbbfaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9cc7ea0c9a2e4d454910eabfbd7fb6') in 0.043517 seconds
+  Import took 0.046368 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.005 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1977.
+Total: 2.025100 ms (FindLiveObjects: 0.213500 ms CreateObjectMapping: 0.132900 ms MarkObjects: 1.661800 ms  DeleteObjects: 0.015900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 76.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1979.
+Total: 2.724700 ms (FindLiveObjects: 0.281300 ms CreateObjectMapping: 0.099300 ms MarkObjects: 2.327200 ms  DeleteObjects: 0.015500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1981.
+Total: 2.225800 ms (FindLiveObjects: 0.244000 ms CreateObjectMapping: 0.090400 ms MarkObjects: 1.874400 ms  DeleteObjects: 0.015700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.890380 seconds.
+  path: Assets/Packages/Low Poly/Animations/Kitchen Stand 1.controller
+  artifactKey: Guid(a7974da0e4f6a1d44adb77dfbf3b69de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Animations/Kitchen Stand 1.controller using Guid(a7974da0e4f6a1d44adb77dfbf3b69de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebc504292588d369a5c8784000e0c73') in 0.027330 seconds
+  Import took 0.029867 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004887 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1983.
+Total: 1.882000 ms (FindLiveObjects: 0.151200 ms CreateObjectMapping: 0.053800 ms MarkObjects: 1.661700 ms  DeleteObjects: 0.014500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1985.
+Total: 1.985100 ms (FindLiveObjects: 0.152700 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.765300 ms  DeleteObjects: 0.017900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004721 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.853 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1987.
+Total: 1.661000 ms (FindLiveObjects: 0.158700 ms CreateObjectMapping: 0.054200 ms MarkObjects: 1.428700 ms  DeleteObjects: 0.018600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.337945 seconds.
+  path: Assets/Packages/Low Poly/Prefabs/fridge.prefab
+  artifactKey: Guid(afdaa1a0f5e060047b49e9b7875c57b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Prefabs/fridge.prefab using Guid(afdaa1a0f5e060047b49e9b7875c57b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ef587ce8a62b49a7121735860a1292') in 0.070505 seconds
+  Import took 0.073062 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004950 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 1.916600 ms (FindLiveObjects: 0.161300 ms CreateObjectMapping: 0.055900 ms MarkObjects: 1.684100 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.705236 seconds.
+  path: Assets/Packages/Low Poly/Prefabs/fridge.prefab
+  artifactKey: Guid(afdaa1a0f5e060047b49e9b7875c57b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Prefabs/fridge.prefab using Guid(afdaa1a0f5e060047b49e9b7875c57b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbf413b68d94e568d016f703446a221') in 0.158170 seconds
+  Import took 0.162684 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.889 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1993.
+Total: 1.835900 ms (FindLiveObjects: 0.174700 ms CreateObjectMapping: 0.051500 ms MarkObjects: 1.586500 ms  DeleteObjects: 0.022300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.765240 seconds.
+  path: Assets/Wakaba/Editor
+  artifactKey: Guid(fbc72e10daa0e68449c1d6573dec49ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wakaba/Editor using Guid(fbc72e10daa0e68449c1d6573dec49ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d09092c1ae52b0a8e2ab378391f2b4') in 0.011400 seconds
+  Import took 0.014692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.621375 seconds.
+  path: Assets/Wakaba/Core/IRunnable.cs
+  artifactKey: Guid(f40785e6dd2a3c346b4e82b1c999ce33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wakaba/Core/IRunnable.cs using Guid(f40785e6dd2a3c346b4e82b1c999ce33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed5011f80e3a1a27541dfa82c630663') in 0.015690 seconds
+  Import took 0.018658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 196.626216 seconds.
+  path: Assets/Wakaba/Multiplayer
+  artifactKey: Guid(046870a7b3903ec448be8866f080386b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wakaba/Multiplayer using Guid(046870a7b3903ec448be8866f080386b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a0a0bc357c28b9abf36df54363980b') in 0.007787 seconds
+  Import took 0.010159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.872049 seconds.
+  path: Assets/Wakaba/Multiplayer/Scenes
+  artifactKey: Guid(79914e4f3bcc02549b9fd27f771ebe00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wakaba/Multiplayer/Scenes using Guid(79914e4f3bcc02549b9fd27f771ebe00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28c9b7ccac08ab0abf86030250c3c52') in 0.006885 seconds
+  Import took 0.009851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 799.736020 seconds.
+  path: Assets/Packages/Lots of food/Prefabs/egg.prefab
+  artifactKey: Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Prefabs/egg.prefab using Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecca91f4e9eaa4c740afc6cfdfc10d69') in 0.093238 seconds
+  Import took 0.096798 seconds .
+
