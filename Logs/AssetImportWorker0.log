@@ -2257,3 +2257,661 @@ Received Import Request.
 Start importing Assets/Packages/Low Poly/Test Scene.unity using Guid(2e15a2b9b12f4e0408a3dfa62aa13ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219d112e4224901aa1dd1d8ca5c82a9e') in 0.007750 seconds
   Import took 0.010739 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3316.394791 seconds.
+  path: Assets/Packages/Low Poly/Prefabs/frying_pan.prefab
+  artifactKey: Guid(f22971e93f194c04cb27f8c9aeb70930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Prefabs/frying_pan.prefab using Guid(f22971e93f194c04cb27f8c9aeb70930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6304d035b78c12eda89997ac02f84fb7') in 0.017905 seconds
+  Import took 0.021655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.273130 seconds.
+  path: Assets/Packages/Lots of food/Prefabs/egg.prefab
+  artifactKey: Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Prefabs/egg.prefab using Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cfe0898a747535359929272e2206bdd') in 0.027391 seconds
+  Import took 0.030042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.574428 seconds.
+  path: Assets/Packages/Lots of food/Prefabs/egg.prefab
+  artifactKey: Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Prefabs/egg.prefab using Guid(cd34e36aeaf1bad4095970c60043ab39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7ce51463ef275189040e6c7229d4e7') in 0.014174 seconds
+  Import took 0.017286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 487.080741 seconds.
+  path: Assets/Packages/Lots of food/Prefabs/Tomato.prefab
+  artifactKey: Guid(631b072a88243ca4c99acaa4414cd28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Prefabs/Tomato.prefab using Guid(631b072a88243ca4c99acaa4414cd28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee98eb3c9939247b217c57b5fdaea299') in 0.035377 seconds
+  Import took 0.039726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.757992 seconds.
+  path: Assets/Packages/Lots of food/Prefabs/Tomato.prefab
+  artifactKey: Guid(631b072a88243ca4c99acaa4414cd28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Prefabs/Tomato.prefab using Guid(631b072a88243ca4c99acaa4414cd28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9cde3304381725b538ba6fb8224fc3f') in 0.028494 seconds
+  Import took 0.031546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3491.340718 seconds.
+  path: Assets/Packages/Art
+  artifactKey: Guid(cbee6d559694f834195ea85d3ee17e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art using Guid(cbee6d559694f834195ea85d3ee17e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '945ee409c0506203784fba4a0b92f4c5') in 0.007073 seconds
+  Import took 0.014035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001090 seconds.
+  path: Assets/Packages/Art
+  artifactKey: Guid(cbee6d559694f834195ea85d3ee17e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art using Guid(cbee6d559694f834195ea85d3ee17e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '945ee409c0506203784fba4a0b92f4c5') in 0.002748 seconds
+  Import took 0.005136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059862 seconds.
+  path: Assets/Packages/Art/bg.jpg
+  artifactKey: Guid(5a33e8d71826a3a4c811ad0e1516a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/bg.jpg using Guid(5a33e8d71826a3a4c811ad0e1516a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4f42ff7b9c60034c5e66858a7d9c61') in 0.073803 seconds
+  Import took 0.076640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.778966 seconds.
+  path: Assets/Packages/Prefabs
+  artifactKey: Guid(51b5b315ddc2f094dab164624325f8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Prefabs using Guid(51b5b315ddc2f094dab164624325f8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87866570622acba84b8414e6757a64e') in 0.006624 seconds
+  Import took 0.009048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.177118 seconds.
+  path: Assets/Packages/TomatoHalf_Low.prefab
+  artifactKey: Guid(2634f8a56ad53d24394a4d1c00a6457c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/TomatoHalf_Low.prefab using Guid(2634f8a56ad53d24394a4d1c00a6457c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe51f719ef5443a3864dcf200139559c') in 0.019838 seconds
+  Import took 0.022490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026692 seconds.
+  path: Assets/Packages/TomatoHalf_Low.prefab
+  artifactKey: Guid(2634f8a56ad53d24394a4d1c00a6457c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/TomatoHalf_Low.prefab using Guid(2634f8a56ad53d24394a4d1c00a6457c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe51f719ef5443a3864dcf200139559c') in 0.024051 seconds
+  Import took 0.027390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.770225 seconds.
+  path: Assets/Packages/Tomato.prefab
+  artifactKey: Guid(071612751dfb487488ef704c1c299914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Tomato.prefab using Guid(071612751dfb487488ef704c1c299914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce4ef0783a28d312ef132f53385bf95') in 0.018227 seconds
+  Import took 0.020844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029048 seconds.
+  path: Assets/Packages/Tomato.prefab
+  artifactKey: Guid(071612751dfb487488ef704c1c299914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Tomato.prefab using Guid(071612751dfb487488ef704c1c299914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce4ef0783a28d312ef132f53385bf95') in 0.019754 seconds
+  Import took 0.023243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.771298 seconds.
+  path: Assets/Packages/Lots of food/Meshes/GarlicCloves.fbx
+  artifactKey: Guid(10eb3d01c5a83f7488d8ec4e2f9cdd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/GarlicCloves.fbx using Guid(10eb3d01c5a83f7488d8ec4e2f9cdd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2795d15938a446986aba8996f80d2bfc') in 0.147317 seconds
+  Import took 0.149911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Meat.fbx
+  artifactKey: Guid(7da3ba93a27b2ff44a529f098a09ed75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Meat.fbx using Guid(7da3ba93a27b2ff44a529f098a09ed75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79495346b72475e71018bd52843f3c8b') in 0.075926 seconds
+  Import took 0.078386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Skinned_Chicken.fbx
+  artifactKey: Guid(795242f075184cc48b2c6d9dda31a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Skinned_Chicken.fbx using Guid(795242f075184cc48b2c6d9dda31a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70519d5ae2f9de46e5b9d97ddea9520a') in 0.078782 seconds
+  Import took 0.081024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Packages/Lots of food/Meshes/OliveOil.fbx
+  artifactKey: Guid(7efe9a6b8f0200349bf250d45ac41825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/OliveOil.fbx using Guid(7efe9a6b8f0200349bf250d45ac41825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95551bdf4617ef8f9907c5db6082ba5d') in 0.086837 seconds
+  Import took 0.090214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Onion.fbx
+  artifactKey: Guid(2ea2577003f246d49939e8382c6a68fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Onion.fbx using Guid(2ea2577003f246d49939e8382c6a68fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5098032bd4ef527a87b14c368ecdc536') in 0.088066 seconds
+  Import took 0.090593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Packages/Lots of food/Meshes/SodaCan.fbx
+  artifactKey: Guid(5e6b2dd74fe53544f9e1b74530bdaa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/SodaCan.fbx using Guid(5e6b2dd74fe53544f9e1b74530bdaa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb996a9bcb69ceb9d37f206139eb955') in 0.100807 seconds
+  Import took 0.103375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Milk.fbx
+  artifactKey: Guid(732060d1b15c97f4daf1ca806575cd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Milk.fbx using Guid(732060d1b15c97f4daf1ca806575cd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012d7f489e1278c52a4a87c865d4a078') in 0.113834 seconds
+  Import took 0.116386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Packages/Lots of food/Meshes/TomatoSoup.fbx
+  artifactKey: Guid(c4b4ba88602723141be382e278e9c816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/TomatoSoup.fbx using Guid(c4b4ba88602723141be382e278e9c816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8744d02b838975035a378771ce30527d') in 0.088349 seconds
+  Import took 0.090930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Packages/Lots of food/Meshes/GarlicCloves.fbx
+  artifactKey: Guid(10eb3d01c5a83f7488d8ec4e2f9cdd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/GarlicCloves.fbx using Guid(10eb3d01c5a83f7488d8ec4e2f9cdd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2795d15938a446986aba8996f80d2bfc') in 0.107356 seconds
+  Import took 0.110460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Packages/Lots of food/Meshes/plate.fbx
+  artifactKey: Guid(21117a1e270ae3843a41032b80b53b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/plate.fbx using Guid(21117a1e270ae3843a41032b80b53b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469623f75dc32fff207b6d5b2f0b200e') in 0.039949 seconds
+  Import took 0.042251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Mushrooms.fbx
+  artifactKey: Guid(2456fcea440f0884e87dede158493993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Mushrooms.fbx using Guid(2456fcea440f0884e87dede158493993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7886f53acdea7dc8c6242303f880d96c') in 0.120078 seconds
+  Import took 0.122582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Potato.fbx
+  artifactKey: Guid(46db98df67a47854fa3429f37537d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Potato.fbx using Guid(46db98df67a47854fa3429f37537d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ae83e67c9f23656308e3ad0c71edc2') in 0.088210 seconds
+  Import took 0.090601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Peanuts.fbx
+  artifactKey: Guid(0799666af6a17364298f9d10a74a76f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Peanuts.fbx using Guid(0799666af6a17364298f9d10a74a76f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e0b02567c20e7f6d3ae30968d8d173') in 0.087879 seconds
+  Import took 0.090707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Puree.fbx
+  artifactKey: Guid(289877ed0543bca4a95b5d428f4ad04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Puree.fbx using Guid(289877ed0543bca4a95b5d428f4ad04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a8a272d7dbadf35f1d8a6a310397e3') in 0.028322 seconds
+  Import took 0.031227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Tomato.fbx
+  artifactKey: Guid(02fece05d50850b4581df192f6bc3df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Tomato.fbx using Guid(02fece05d50850b4581df192f6bc3df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f2e777958909ddd327ae7c525f2190') in 0.112329 seconds
+  Import took 0.115042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Packages/Lots of food/Meshes/MincedBeef.fbx
+  artifactKey: Guid(b5c58d16a3531204c9acfd8f88fe4f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/MincedBeef.fbx using Guid(b5c58d16a3531204c9acfd8f88fe4f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57a5919623a358113d7ab89a54dd99b') in 0.081006 seconds
+  Import took 0.083570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Packages/Lots of food/Meshes/Lemons.fbx
+  artifactKey: Guid(2609e04b9a424e34b843c616fa9b0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/Lemons.fbx using Guid(2609e04b9a424e34b843c616fa9b0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f1851422b893b645d463aa62c89b31') in 0.097191 seconds
+  Import took 0.099795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Packages/Lots of food/Meshes/JuicePack.fbx
+  artifactKey: Guid(049d662fb1301c74e99bffe685bc6b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Lots of food/Meshes/JuicePack.fbx using Guid(049d662fb1301c74e99bffe685bc6b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248a0d3073157332a8363f57a26ee148') in 0.091508 seconds
+  Import took 0.094249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.239180 seconds.
+  path: Assets/Packages/High Poly/Prefabs/RollingPin.prefab
+  artifactKey: Guid(4097a285d710b744b9ff6cb685207bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/High Poly/Prefabs/RollingPin.prefab using Guid(4097a285d710b744b9ff6cb685207bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca9451cd11da13f77f01d6292030ac5') in 0.059724 seconds
+  Import took 0.062960 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005388 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.010 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2031.
+Total: 2.070400 ms (FindLiveObjects: 0.254500 ms CreateObjectMapping: 0.073800 ms MarkObjects: 1.715000 ms  DeleteObjects: 0.025200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.286069 seconds.
+  path: Assets/Packages/Low Poly/Prefabs/fridge.prefab
+  artifactKey: Guid(afdaa1a0f5e060047b49e9b7875c57b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Prefabs/fridge.prefab using Guid(afdaa1a0f5e060047b49e9b7875c57b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a265fedcf4fcfed70d7082c277ba94a5') in 0.088165 seconds
+  Import took 0.091661 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.886 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.7 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2034.
+Total: 3.065100 ms (FindLiveObjects: 0.341800 ms CreateObjectMapping: 0.119200 ms MarkObjects: 2.579800 ms  DeleteObjects: 0.022600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004689 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.878 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2036.
+Total: 2.627700 ms (FindLiveObjects: 0.245400 ms CreateObjectMapping: 0.087200 ms MarkObjects: 2.274000 ms  DeleteObjects: 0.019400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004795 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.7 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2038.
+Total: 2.824700 ms (FindLiveObjects: 0.320200 ms CreateObjectMapping: 0.109300 ms MarkObjects: 2.371400 ms  DeleteObjects: 0.021600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004710 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2040.
+Total: 2.706100 ms (FindLiveObjects: 0.264400 ms CreateObjectMapping: 0.076900 ms MarkObjects: 2.338000 ms  DeleteObjects: 0.025600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.7 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2042.
+Total: 3.392000 ms (FindLiveObjects: 0.338500 ms CreateObjectMapping: 0.121300 ms MarkObjects: 2.894000 ms  DeleteObjects: 0.036400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.233055 seconds.
+  path: Assets/Packages/Low Poly/Materials/chair.mat
+  artifactKey: Guid(3e4d7427d7a88294cb0c94d082e2d2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/chair.mat using Guid(3e4d7427d7a88294cb0c94d082e2d2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181a314e9c64ea9fc175ae4d657fc321') in 0.072929 seconds
+  Import took 0.075418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Packages/Low Poly/Materials/kitchen_stand 2.mat
+  artifactKey: Guid(16553a4ba237aeb48a1f7631e441e8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/kitchen_stand 2.mat using Guid(16553a4ba237aeb48a1f7631e441e8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17a8bb05bf8f8d52040565f2d53bbfb') in 0.014844 seconds
+  Import took 0.017248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Packages/Low Poly/Materials/microwave door.mat
+  artifactKey: Guid(0f0efd26481f4d64ba787c94cca13d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/microwave door.mat using Guid(0f0efd26481f4d64ba787c94cca13d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c812352616c2b6b76457ab33e25cd39d') in 0.012300 seconds
+  Import took 0.014748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Packages/Low Poly/Materials/square napkin.mat
+  artifactKey: Guid(ca9e52a41ac777c45b05deede619a4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/square napkin.mat using Guid(ca9e52a41ac777c45b05deede619a4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ddceb435bede8c0b1574b678a82ac9') in 0.020387 seconds
+  Import took 0.023663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Packages/Low Poly/Materials/fridge.mat
+  artifactKey: Guid(4feec54a785b4544dbfc668308cc0c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/fridge.mat using Guid(4feec54a785b4544dbfc668308cc0c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31dfb036e28a53d30a364ee198a21203') in 0.020285 seconds
+  Import took 0.022882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Packages/Low Poly/Materials/kitchen_sink.mat
+  artifactKey: Guid(e3609492276790a48a364180f11a93c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/kitchen_sink.mat using Guid(e3609492276790a48a364180f11a93c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aac616b8f04e6e532a22fda0778f5b2') in 0.061431 seconds
+  Import took 0.065260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Packages/Low Poly/Materials/knife.mat
+  artifactKey: Guid(d7d5e72666737d040ba68a6bfc9d685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/knife.mat using Guid(d7d5e72666737d040ba68a6bfc9d685a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9bb21da289a0b14e0a865a8dc2b5306') in 0.014379 seconds
+  Import took 0.017590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Packages/Low Poly/Materials/triangle napkin.mat
+  artifactKey: Guid(e62149bd1cea04f40bc366fbe2d21855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/triangle napkin.mat using Guid(e62149bd1cea04f40bc366fbe2d21855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cadfec746ffae9c935da814a8e7d3d2') in 0.014051 seconds
+  Import took 0.016452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Packages/Low Poly/Materials/fridge_door.mat
+  artifactKey: Guid(82b56e2b4ce7c1d4797631c052e93e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/fridge_door.mat using Guid(82b56e2b4ce7c1d4797631c052e93e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb8524e9d4f4cc79016610028420bbd') in 0.017919 seconds
+  Import took 0.020327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Packages/Low Poly/Materials/kitchen_stand.mat
+  artifactKey: Guid(5d105b56c3dc85945a0ccef23c4187e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/kitchen_stand.mat using Guid(5d105b56c3dc85945a0ccef23c4187e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a936ac63e12e05b2abcfe914dfd0ea47') in 0.013879 seconds
+  Import took 0.016691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Packages/Low Poly/Materials/oven 2.mat
+  artifactKey: Guid(21bfc7d961fdd784b90f0767b570f5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/oven 2.mat using Guid(21bfc7d961fdd784b90f0767b570f5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b76c335859454b78b90dc54203b87d0') in 0.024264 seconds
+  Import took 0.027060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Packages/Low Poly/Materials/glass.mat
+  artifactKey: Guid(896d514f1c8c1734092415ca4470aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/glass.mat using Guid(896d514f1c8c1734092415ca4470aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629ed5135309701f988dc0dd9f6bb363') in 0.027433 seconds
+  Import took 0.029915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Packages/Low Poly/Materials/fork.mat
+  artifactKey: Guid(65ed051c69448144aa05ff85e472eab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/fork.mat using Guid(65ed051c69448144aa05ff85e472eab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ab4cf0da47d0229bccff32283c0449') in 0.018911 seconds
+  Import took 0.021562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Packages/Low Poly/Materials/kitchen_stand door 2.mat
+  artifactKey: Guid(9cbb1f3e6956b3249bbe9be5aee832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/kitchen_stand door 2.mat using Guid(9cbb1f3e6956b3249bbe9be5aee832b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848ad452a9dbc04561e93e2bdf4c4751') in 0.016531 seconds
+  Import took 0.019088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Packages/Low Poly/Materials/frying pan.mat
+  artifactKey: Guid(66069ab0cc77bb84e96c763cbeed31a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/frying pan.mat using Guid(66069ab0cc77bb84e96c763cbeed31a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330eaf42b30fd6a5d27581fb377ad950') in 0.027855 seconds
+  Import took 0.030633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Packages/Low Poly/Materials/plate.mat
+  artifactKey: Guid(a8bc6f9ef949b6f4e960a46cc1de32a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/plate.mat using Guid(a8bc6f9ef949b6f4e960a46cc1de32a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a81b2a8928c4817bef8e870240fcb189') in 0.012995 seconds
+  Import took 0.016023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Packages/Low Poly/Materials/oven 1.mat
+  artifactKey: Guid(958b88f9268508e4f95f9d407b822990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/oven 1.mat using Guid(958b88f9268508e4f95f9d407b822990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f652b276c559a869c3ca57f5683e6f04') in 0.022418 seconds
+  Import took 0.024783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Packages/Low Poly/Materials/cooking pot.mat
+  artifactKey: Guid(cd7481125ba8a8242ace03065324d6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/cooking pot.mat using Guid(cd7481125ba8a8242ace03065324d6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a00101dd8a4e1ff201373a2fb2e7d46') in 0.013608 seconds
+  Import took 0.016880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Packages/Low Poly/Materials/long table.mat
+  artifactKey: Guid(a0ed119de19098b479e3629f9b6216c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/long table.mat using Guid(a0ed119de19098b479e3629f9b6216c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627afc7cfde675a402e4d89dd8ba881d') in 0.021125 seconds
+  Import took 0.023638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Packages/Low Poly/Materials/kitchen_stand door.mat
+  artifactKey: Guid(3bb46a18b653edc449b656979066a92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/kitchen_stand door.mat using Guid(3bb46a18b653edc449b656979066a92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9651ca065025348f0a8069a166b962') in 0.013519 seconds
+  Import took 0.016429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Packages/Low Poly/Materials/table.mat
+  artifactKey: Guid(d5ad4c96d0054a942bd30c4d8e811795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/table.mat using Guid(d5ad4c96d0054a942bd30c4d8e811795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f6bb087ba57a6f96148a44414de9f12') in 0.027620 seconds
+  Import took 0.030613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Packages/Low Poly/Materials/cooking pot 2.mat
+  artifactKey: Guid(cc881819ddc798e409df450e4cba5a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/cooking pot 2.mat using Guid(cc881819ddc798e409df450e4cba5a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad76eae643aa135efd0267b7386389f') in 0.014892 seconds
+  Import took 0.017983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Packages/Low Poly/Materials/spoon.mat
+  artifactKey: Guid(cb658028d87604a44b51755a62102253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/spoon.mat using Guid(cb658028d87604a44b51755a62102253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618a1ea3691833dd161e4442bdeb2b28') in 0.024078 seconds
+  Import took 0.026606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Packages/Low Poly/Materials/toaster.mat
+  artifactKey: Guid(799390bd853932c4cbed34a4987082bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/toaster.mat using Guid(799390bd853932c4cbed34a4987082bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a2c132ba1d3b410fdefa041bb60259') in 0.016938 seconds
+  Import took 0.019422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Packages/Low Poly/Materials/microwave door 2.mat
+  artifactKey: Guid(3fdc85282ca30b142bb25fecbb1f1bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/microwave door 2.mat using Guid(3fdc85282ca30b142bb25fecbb1f1bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db1537cb57b5880b7bfdd0a688793eb') in 0.021309 seconds
+  Import took 0.023748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Packages/Low Poly/Materials/microwave.mat
+  artifactKey: Guid(d291886d0645251478377f57e31e5a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/microwave.mat using Guid(d291886d0645251478377f57e31e5a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b10c341c6603691151ba49d0a57809') in 0.015085 seconds
+  Import took 0.018608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Packages/Low Poly/Materials/champagne cup.mat
+  artifactKey: Guid(be1441e74adf048409890697fdb82d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/champagne cup.mat using Guid(be1441e74adf048409890697fdb82d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a4e04b216372fdbcd774b18d34d469') in 0.025139 seconds
+  Import took 0.027750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Packages/Low Poly/Materials/kitchen_stand 3.mat
+  artifactKey: Guid(6ff4fe37fd378c443a889661346656cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Materials/kitchen_stand 3.mat using Guid(6ff4fe37fd378c443a889661346656cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2174ef5e663c5c13a0d118f8f620c92') in 0.038074 seconds
+  Import took 0.041020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.497334 seconds.
+  path: Assets/Packages/Low Poly/Animations/Fridge.controller
+  artifactKey: Guid(8f1929592422ebb49b7574de68d095db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Low Poly/Animations/Fridge.controller using Guid(8f1929592422ebb49b7574de68d095db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88154edd76f12b0be3152e7a48c71c7') in 0.014141 seconds
+  Import took 0.017631 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005169 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2045.
+Total: 2.054100 ms (FindLiveObjects: 0.391500 ms CreateObjectMapping: 0.087200 ms MarkObjects: 1.547500 ms  DeleteObjects: 0.026000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
