@@ -12,6 +12,8 @@ public class CameraFollowMouse : MonoBehaviour
     [Tooltip("Rotation on X axis")] private float mouseX;
     private float xClamp = 0.0f;
 
+    public Transform playerBody;
+    
     private void Start() {
         horizontalSpeed = 2f;
         verticalSpeed = 2f;
@@ -39,7 +41,12 @@ public class CameraFollowMouse : MonoBehaviour
         targetRotation.x -= yRotation;
         targetRotation.z = 0;
         targetRotation.y += xRotation;
-
+        
+        //Player
+        Vector3 targetRotBody = playerBody.rotation.eulerAngles;
+        targetRotBody.y += xRotation;
+        
+        
         if (xClamp > 90)
         {
             xClamp = 90;
@@ -52,5 +59,6 @@ public class CameraFollowMouse : MonoBehaviour
         }
         
         transform.rotation = Quaternion.Euler(targetRotation);
+        playerBody.rotation = Quaternion.Euler(targetRotBody);
     }
 }
