@@ -32,21 +32,24 @@ public class CameraFollowMouse : MonoBehaviour
         mouseX = Input.GetAxis("Mouse X");
         mouseY = Input.GetAxis("Mouse Y");
 
+        //Mouse speed
         float xRotation = mouseX * horizontalSpeed / 2;
         float yRotation = mouseY * verticalSpeed / 2;
 
+        //Clamp on x and y rotation
         xClamp -= yRotation;
 
+        //Camera rotation
         Vector3 targetRotation = transform.rotation.eulerAngles;
         targetRotation.x -= yRotation;
         targetRotation.z = 0;
         targetRotation.y += xRotation;
         
-        //Player
+        //Player rotation
         Vector3 targetRotBody = playerBody.rotation.eulerAngles;
         targetRotBody.y += xRotation;
         
-        
+        //Clamp rotation
         if (xClamp > 90)
         {
             xClamp = 90;
