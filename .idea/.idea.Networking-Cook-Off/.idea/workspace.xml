@@ -11,7 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Cook Off/Scripts/UnityHoverText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/CameraFollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -24,7 +24,9 @@
       <option value="$PROJECT_DIR$/Assets/Wakaba/Multiplayer/Animations/Knife.cs" />
       <option value="$PROJECT_DIR$/Assets/Wakaba/Multiplayer/CameraInteract.cs" />
       <option value="$PROJECT_DIR$/Assets/Wakaba/Multiplayer/InteractBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/ItemInteractions.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/InteractBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/CameraFollowMouse.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1se3h2h9hSZtvOEIRNyG8Unkslk" />

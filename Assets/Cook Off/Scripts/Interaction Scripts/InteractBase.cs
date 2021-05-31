@@ -5,7 +5,7 @@ public class InteractBase : MonoBehaviour
     private Animator animator;
 
     private void Start() {
-        animator = GetComponent<Animator>();
+        animator = GetComponentInParent<Animator>();
         animator.Play("F_Idle");
     }
 
@@ -14,6 +14,9 @@ public class InteractBase : MonoBehaviour
     }
 
     private void OnMouseExit() {
-        animator.Play("F_Close");
+        if (Input.GetKey(KeyCode.C))
+        {
+            animator.Play("F_Close");
+        }
     }
 }
