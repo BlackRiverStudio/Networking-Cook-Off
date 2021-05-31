@@ -1,20 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem;
+using InputActionRef = UnityEngine.InputSystem.InputActionReference;
 namespace CookOff
 {
     public class PlayerController : MonoBehaviour
     {
-        PlayerInput input;
-
-        [SerializeField]InputActionReference moveAction;
-
-        private void Start()
-        {
-            moveAction.action.ReadValue<Vector2>();
-        }
-
+        [SerializeField] private InputActionRef moveAction;
+        private void Start() => moveAction.action.ReadValue<Vector2>();
         private void Update()
         {
             transform.position += transform.right * Time.deltaTime * moveAction.action.ReadValue<Vector2>().x;
