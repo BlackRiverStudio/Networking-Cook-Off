@@ -108,6 +108,8 @@ GameObject:
   - component: {fileID: 8974608218422466112}
   - component: {fileID: 8974608218422466113}
   - component: {fileID: 1361084553}
+  - component: {fileID: 1737452423}
+  - component: {fileID: 1737452424}
   m_Layer: 0
   m_Name: Player Ref
   m_TagString: Untagged
@@ -209,6 +211,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: {fileID: 8974608219917046787}
+--- !u!114 &1737452423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8974608218422466110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8ac2f7b3debdb448a074344c4ea60a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveAction: {fileID: -5887704180710620808, guid: 703536f2acaa3e948a9a9f8a1eaad601, type: 3}
+--- !u!114 &1737452424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8974608218422466110}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b720189f627be4e8ab913bba38041d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  midPoint: {fileID: 8974608219763883850}
+  leftHand: {fileID: 8974608219917046787}
+  rightHand: {fileID: 8974608218311687704}
+  offsetPosition: {x: 0, y: 0, z: 0}
+  smooth: 0
+  smoothSpeed: 0.125
 --- !u!1 &8974608218543472973
 GameObject:
   m_ObjectHideFlags: 0
@@ -393,7 +426,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8974608219763883849}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a3cd22dfbc1e0f458400649622bc486, type: 3}
   m_Name: 
