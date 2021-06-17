@@ -4,6 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cook Off/Scenes/Kitchen 1.unity
+    guid: b347403e9d3fabc4293e84793f7cc5c4
+  - enabled: 1
+    path: Assets/Cook Off/Scenes/Kitchen 2.unity
+    guid: ffc5fc761c5e5f041a7c853d072c2ef2
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: ae49f201efd7eeb4a850c6200aedc0de, type: 2}

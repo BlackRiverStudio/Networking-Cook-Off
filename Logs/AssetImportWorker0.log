@@ -15,11 +15,11 @@ C:/Users/lalal/OneDrive - TAFE NSW/Diploma GIT/Networking-Cook-Off
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55299
+52549
 Successfully changed project path to: C:/Users/lalal/OneDrive - TAFE NSW/Diploma GIT/Networking-Cook-Off
 C:/Users/lalal/OneDrive - TAFE NSW/Diploma GIT/Networking-Cook-Off
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 41.81 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 40.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,45 +35,45 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56020
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002819 seconds.
+Registered in 0.002465 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 49.51 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 46.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.556 seconds
+- Completed reload, in  2.574 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005048 seconds.
+Registered in 0.005029 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 45.24 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 55.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
-Find all reader and writers took 167 milliseconds
+Find all reader and writers took 168 milliseconds
 Script Module: UnityEngine.UI.dll
-Weave behaviours and messages took140 milliseconds
-Find all reader and writers took 150 milliseconds
+Weave behaviours and messages took145 milliseconds
+Find all reader and writers took 148 milliseconds
 Script Module: UnityEngine.TestRunner.dll
-Weave behaviours and messages took50 milliseconds
-Find all reader and writers took 177 milliseconds
+Weave behaviours and messages took51 milliseconds
+Find all reader and writers took 176 milliseconds
 Script Module: Unity.InputSystem.dll
-Weave behaviours and messages took399 milliseconds
-Find all reader and writers took 144 milliseconds
+Weave behaviours and messages took401 milliseconds
+Find all reader and writers took 138 milliseconds
 Script Module: SimpleWebTransport.dll
 Weave behaviours and messages took12 milliseconds
-Find all reader and writers took 146 milliseconds
+Find all reader and writers took 147 milliseconds
 Script Module: Unity.Timeline.dll
-Weave behaviours and messages took70 milliseconds
-Find all reader and writers took 153 milliseconds
+Weave behaviours and messages took69 milliseconds
+Find all reader and writers took 152 milliseconds
 Script Module: Mirror.Examples.dll
 [Projectile] NetworkBehaviourProcessor
 [Tank] NetworkBehaviourProcessor
@@ -99,9 +99,9 @@ Script Module: Mirror.Examples.dll
 [PlayerController] NetworkBehaviourProcessor
 [RandomColor] NetworkBehaviourProcessor
 [ShootingTankBehaviour] NetworkBehaviourProcessor
-Weave behaviours and messages took42 milliseconds
-  ProcessSitesModule Mirror.Examples.dll elapsed time:00:00:00.0108919
-Find all reader and writers took 151 milliseconds
+Weave behaviours and messages took46 milliseconds
+  ProcessSitesModule Mirror.Examples.dll elapsed time:00:00:00.0109394
+Find all reader and writers took 143 milliseconds
 Script Module: Mirror.Components.dll
 [NetworkAnimator] NetworkBehaviourProcessor
 [NetworkRoomPlayer] NetworkBehaviourProcessor
@@ -133,54 +133,54 @@ Script Module: Mirror.Components.dll
 [NetworkTransformBase] NetworkBehaviourProcessor
 [NetworkTransformBase] NetworkBehaviourProcessor
 [NetworkTransformChild] NetworkBehaviourProcessor
-Weave behaviours and messages took48 milliseconds
-  ProcessSitesModule Mirror.Components.dll elapsed time:00:00:00.0039901
-Find all reader and writers took 142 milliseconds
+Weave behaviours and messages took49 milliseconds
+  ProcessSitesModule Mirror.Components.dll elapsed time:00:00:00.0029418
+Find all reader and writers took 152 milliseconds
 Script Module: Mirror.Tests.Common.dll
 Weave behaviours and messages took3 milliseconds
-Find all reader and writers took 179 milliseconds
+Find all reader and writers took 169 milliseconds
 Script Module: Unity.TextMeshPro.dll
-Weave behaviours and messages took161 milliseconds
-Find all reader and writers took 157 milliseconds
+Weave behaviours and messages took162 milliseconds
+Find all reader and writers took 140 milliseconds
 Script Module: Mirror.Tests.Runtime.dll
 Weave behaviours and messages took11 milliseconds
-Find all reader and writers took 124 milliseconds
+Find all reader and writers took 139 milliseconds
 Script Module: Telepathy.dll
-Weave behaviours and messages took5 milliseconds
-Find all reader and writers took 141 milliseconds
+Weave behaviours and messages took7 milliseconds
+Find all reader and writers took 144 milliseconds
 Script Module: Mirror.Authenticators.dll
-Weave behaviours and messages took6 milliseconds
-  ProcessSitesModule Mirror.Authenticators.dll elapsed time:00:00:00
-Find all reader and writers took 147 milliseconds
+Weave behaviours and messages took11 milliseconds
+  ProcessSitesModule Mirror.Authenticators.dll elapsed time:00:00:00.0009978
+Find all reader and writers took 146 milliseconds
 Script Module: Assembly-CSharp.dll
 [WakabaPlayerNet] NetworkBehaviourProcessor
-Weave behaviours and messages took18 milliseconds
-Find all reader and writers took 143 milliseconds
+Weave behaviours and messages took17 milliseconds
+Find all reader and writers took 149 milliseconds
 Script Module: kcp2k.dll
-Weave behaviours and messages took10 milliseconds
-Find all reader and writers took 144 milliseconds
+Weave behaviours and messages took8 milliseconds
+Find all reader and writers took 143 milliseconds
 Script Module: Mirror.Examples.Cloud.GUI.dll
-Weave behaviours and messages took9 milliseconds
-Find all reader and writers took 144 milliseconds
+Weave behaviours and messages took6 milliseconds
+Find all reader and writers took 143 milliseconds
 Script Module: Mirror.Cloud.dll
 Weave behaviours and messages took8 milliseconds
-Find all reader and writers took 141 milliseconds
+Find all reader and writers took 156 milliseconds
 Script Module: Mirror.Examples.Cloud.Pong.dll
 [Ball] NetworkBehaviourProcessor
 [BallManager] NetworkBehaviourProcessor
 [Player] NetworkBehaviourProcessor
-Weave behaviours and messages took5 milliseconds
+Weave behaviours and messages took8 milliseconds
   ProcessSitesModule Mirror.Examples.Cloud.Pong.dll elapsed time:00:00:00
-Find all reader and writers took 138 milliseconds
+Find all reader and writers took 139 milliseconds
 Script Module: Mirror.Tests.Performance.Runtime.dll
 Weave behaviours and messages took0 milliseconds
-Find all reader and writers took 202 milliseconds
+Find all reader and writers took 189 milliseconds
 Script Module: UnityEditor.TestRunner.dll
-Weave behaviours and messages took78 milliseconds
-Find all reader and writers took 192 milliseconds
+Weave behaviours and messages took77 milliseconds
+Find all reader and writers took 201 milliseconds
 Script Module: UnityEditor.UI.dll
 Weave behaviours and messages took21 milliseconds
-Find all reader and writers took 190 milliseconds
+Find all reader and writers took 184 milliseconds
 Script Module: Mirror.Tests.dll
 [EmptyBehaviour] NetworkBehaviourProcessor
 [SyncVarGameObjectEqualExposedBehaviour] NetworkBehaviourProcessor
@@ -279,641 +279,570 @@ Script Module: Mirror.Tests.dll
 [VirtualTargetRpc] NetworkBehaviourProcessor
 [VirtualOverrideTargetRpcWithBase] NetworkBehaviourProcessor
 [TargetRpcBehaviour] NetworkBehaviourProcessor
-Weave behaviours and messages took194 milliseconds
-  ProcessSitesModule Mirror.Tests.dll elapsed time:00:00:00.0099484
-Find all reader and writers took 179 milliseconds
+Weave behaviours and messages took215 milliseconds
+  ProcessSitesModule Mirror.Tests.dll elapsed time:00:00:00.0119698
+Find all reader and writers took 152 milliseconds
 Script Module: WeaverTestExtraAssembly.dll
-Weave behaviours and messages took4 milliseconds
+Weave behaviours and messages took6 milliseconds
   ProcessSitesModule WeaverTestExtraAssembly.dll elapsed time:00:00:00
-Find all reader and writers took 155 milliseconds
+Find all reader and writers took 148 milliseconds
 Script Module: Mirror.CompilerSymbols.dll
 Weave behaviours and messages took0 milliseconds
 Mono: successfully reloaded assembly
-- Completed reload, in 12.142 seconds
+- Completed reload, in 12.147 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1789 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 154.2 MB.
-System memory in use after: 154.3 MB.
+System memory in use before: 154.3 MB.
+System memory in use after: 154.4 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2236.
-Total: 2.947800 ms (FindLiveObjects: 0.284300 ms CreateObjectMapping: 0.158000 ms MarkObjects: 2.429800 ms  DeleteObjects: 0.074800 ms)
+Total: 2.696300 ms (FindLiveObjects: 0.245400 ms CreateObjectMapping: 0.108900 ms MarkObjects: 2.262500 ms  DeleteObjects: 0.078400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Cook Off/Scenes/Kitchen 2.unity
-  artifactKey: Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cook Off/Scenes/Kitchen 2.unity using Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d4e88036343c4d186d6eae55940679') in 0.017216 seconds
-  Import took 0.020462 seconds .
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/resource_background.png
+  artifactKey: Guid(80e84707728083d448d1435b9c4982dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/resource_background.png using Guid(80e84707728083d448d1435b9c4982dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68801cf5daf3c338339e7c78438ed89a') in 0.142879 seconds
+  Import took 0.145892 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000383 seconds.
-  path: Assets/Cook Off/Scenes/Kitchen 1.unity
-  artifactKey: Guid(b347403e9d3fabc4293e84793f7cc5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cook Off/Scenes/Kitchen 1.unity using Guid(b347403e9d3fabc4293e84793f7cc5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da9e506077b8c143b0bbd7f596b864c') in 0.008745 seconds
-  Import took 0.012155 seconds .
+  Time since last request: 0.000333 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/cherry_background_2.png
+  artifactKey: Guid(fa65b4657f7c78047a911a3fb6793147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/cherry_background_2.png using Guid(fa65b4657f7c78047a911a3fb6793147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3c722bb65d94473e285578391af3c8') in 0.021247 seconds
+  Import took 0.024188 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 150.185724 seconds.
-  path: Assets/Packages/Art/lavafloor.jpg
-  artifactKey: Guid(a663f123b31095945950cb5c96e9d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/lavafloor.jpg using Guid(a663f123b31095945950cb5c96e9d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56fc67c4929cc8e18289d8bb0a1735ef') in 0.067080 seconds
-  Import took 0.070055 seconds .
+  Time since last request: 0.000226 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/setting_background.png
+  artifactKey: Guid(d5c432ec3d0d0354d92c41b2b356c4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/setting_background.png using Guid(d5c432ec3d0d0354d92c41b2b356c4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2699778cfca67205e9740d5f88c53c98') in 0.053603 seconds
+  Import took 0.057047 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.816004 seconds.
-  path: Assets/Packages/Art/bg.jpg
-  artifactKey: Guid(5a33e8d71826a3a4c811ad0e1516a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/bg.jpg using Guid(5a33e8d71826a3a4c811ad0e1516a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f018aa9974d2f0da63f0eafbc8054c') in 0.057841 seconds
-  Import took 0.060976 seconds .
+  Time since last request: 0.000207 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM
+  artifactKey: Guid(b816acfa1e425cc4c9cd670da9075d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM using Guid(b816acfa1e425cc4c9cd670da9075d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cec5e8967d06ca692148d77f6e4d233') in 0.008453 seconds
+  Import took 0.011666 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.056021 seconds.
-  path: Assets/Packages/Art/lavafloor.jpg
-  artifactKey: Guid(a663f123b31095945950cb5c96e9d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/lavafloor.jpg using Guid(a663f123b31095945950cb5c96e9d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d1358b533006cc7c7ad48bc894f358') in 0.027477 seconds
-  Import took 0.030953 seconds .
+  Time since last request: 0.000201 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/buy_item_background_1.png
+  artifactKey: Guid(98dd0ae794610024582a27875f501f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/buy_item_background_1.png using Guid(98dd0ae794610024582a27875f501f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ecd528dd7e4f514be7d58a4795b4a8') in 0.048972 seconds
+  Import took 0.052052 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001004 seconds.
-  path: Assets/Packages/Art/lavafloor.jpg
-  artifactKey: Guid(a663f123b31095945950cb5c96e9d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/lavafloor.jpg using Guid(a663f123b31095945950cb5c96e9d278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d1358b533006cc7c7ad48bc894f358') in 0.021291 seconds
-  Import took 0.024511 seconds .
+  Time since last request: 0.000234 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/background_2.png
+  artifactKey: Guid(f559ee3896b268a4aa4316856438cb0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/background_2.png using Guid(f559ee3896b268a4aa4316856438cb0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02245da7bcefc6a13992484929437c6') in 0.034953 seconds
+  Import took 0.037867 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 85.651278 seconds.
-  path: Assets/Packages/Art/lavafloor2.jpg
-  artifactKey: Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/lavafloor2.jpg using Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b016e641a1fa8d0dc63ec2bedeba7dba') in 0.017692 seconds
-  Import took 0.020875 seconds .
+  Time since last request: 0.000309 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/buy_item_background_2.png
+  artifactKey: Guid(1bc5a2787ad6f354bbce6352e4ade830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/buy_item_background_2.png using Guid(1bc5a2787ad6f354bbce6352e4ade830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d681ada396de96c93070f7fcfce533d') in 0.018672 seconds
+  Import took 0.021309 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002350 seconds.
-  path: Assets/Packages/Art/lavafloor2.jpg
-  artifactKey: Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/lavafloor2.jpg using Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b016e641a1fa8d0dc63ec2bedeba7dba') in 0.016714 seconds
-  Import took 0.019634 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.917199 seconds.
-  path: Assets/Packages/Art/lavafloor2.jpg
-  artifactKey: Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/lavafloor2.jpg using Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39b29c4cb3ede5566cd6eacc65c4770') in 0.035258 seconds
-  Import took 0.038957 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 121.335830 seconds.
-  path: Assets/Packages/Art/Lava Floor.jpg
-  artifactKey: Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Lava Floor.jpg using Guid(18eeee390b46e014eb8f1c36e54db8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc370ba1cd43cdd7a56398722c1f77b') in 0.046139 seconds
-  Import took 0.049552 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 431.665131 seconds.
-  path: Assets/Packages/Art/Volcano.gif
-  artifactKey: Guid(e5a7dd42ee71413488d1ba13b0f76f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Volcano.gif using Guid(e5a7dd42ee71413488d1ba13b0f76f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2773ace8a967c6b3a72af2e03d93eecd') in 0.022181 seconds
-  Import took 0.025709 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002311 seconds.
-  path: Assets/Packages/Art/Volcano.gif
-  artifactKey: Guid(e5a7dd42ee71413488d1ba13b0f76f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Volcano.gif using Guid(e5a7dd42ee71413488d1ba13b0f76f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2773ace8a967c6b3a72af2e03d93eecd') in 0.013623 seconds
-  Import took 0.016437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.454572 seconds.
-  path: Assets/Packages/Art/Volcano.gif
-  artifactKey: Guid(e5a7dd42ee71413488d1ba13b0f76f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Volcano.gif using Guid(e5a7dd42ee71413488d1ba13b0f76f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81e3b06fb37020d5affefd184a59314') in 0.041617 seconds
-  Import took 0.044852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 506.569545 seconds.
-  path: Assets/Cook Off/Scenes/Kitchen 2.unity
-  artifactKey: Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cook Off/Scenes/Kitchen 2.unity using Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f03c5929f51a099b2af51c99e5c425') in 0.004481 seconds
-  Import took 0.008228 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004571 seconds.
-  path: Assets/Cook Off/Scenes/Kitchen 2.unity
-  artifactKey: Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cook Off/Scenes/Kitchen 2.unity using Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f03c5929f51a099b2af51c99e5c425') in 0.004022 seconds
-  Import took 0.007542 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.707388 seconds.
-  path: Assets/Packages/Kitchen hardware/Cutting Board.prefab
-  artifactKey: Guid(a10ac64bb83f7dd4d9b6d7705439aacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Kitchen hardware/Cutting Board.prefab using Guid(a10ac64bb83f7dd4d9b6d7705439aacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d490ffe489b5384dfd7e183f311c8c') in 0.077267 seconds
-  Import took 0.080171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.499977 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs
-  artifactKey: Guid(6fecfa350d8b38d4988357a40527be8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs using Guid(6fecfa350d8b38d4988357a40527be8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74333fa6e789151b5c88a71c2d68a5c1') in 0.008070 seconds
-  Import took 0.011340 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.411898 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers
-  artifactKey: Guid(2c7f59ba623b0eb48bc61bb092439ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers using Guid(2c7f59ba623b0eb48bc61bb092439ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b96c6afd780d318de9f7db6ea9e2be') in 0.008711 seconds
-  Import took 0.011839 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000532 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers
-  artifactKey: Guid(2c7f59ba623b0eb48bc61bb092439ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers using Guid(2c7f59ba623b0eb48bc61bb092439ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b96c6afd780d318de9f7db6ea9e2be') in 0.003885 seconds
-  Import took 0.007897 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.900970 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Calm.prefab
-  artifactKey: Guid(c4335badf303ac7459a70a9d95a16187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Calm.prefab using Guid(c4335badf303ac7459a70a9d95a16187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d58fa89acc1df69dad70c242c3b90b8') in 0.022856 seconds
-  Import took 0.026163 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.850462 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Fitness.prefab
-  artifactKey: Guid(76c7040666874bf4aa704a5187bc0e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Fitness.prefab using Guid(76c7040666874bf4aa704a5187bc0e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f0997c745a96f2b0af880bb0e152b2') in 0.022909 seconds
-  Import took 0.026055 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001111 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Fitness.prefab
-  artifactKey: Guid(76c7040666874bf4aa704a5187bc0e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Fitness.prefab using Guid(76c7040666874bf4aa704a5187bc0e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f0997c745a96f2b0af880bb0e152b2') in 0.026909 seconds
-  Import took 0.030852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.366394 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Glutton.prefab
-  artifactKey: Guid(794e754754b580742ad46bb8199bd35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Glutton.prefab using Guid(794e754754b580742ad46bb8199bd35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca4bf90f07b17bd04557366b7b8a861') in 0.025566 seconds
-  Import took 0.028571 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.498932 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lonely.prefab
-  artifactKey: Guid(489f856b9f3372645bb9613bd11706d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lonely.prefab using Guid(489f856b9f3372645bb9613bd11706d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999a77b63d7d2b9e67ffbf3cd52ab2f1') in 0.024514 seconds
-  Import took 0.028400 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002102 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lonely.prefab
-  artifactKey: Guid(489f856b9f3372645bb9613bd11706d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lonely.prefab using Guid(489f856b9f3372645bb9613bd11706d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999a77b63d7d2b9e67ffbf3cd52ab2f1') in 0.029132 seconds
-  Import took 0.032722 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.356222 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lunatic.prefab
-  artifactKey: Guid(4b120a54760c4aa4e9e1cfa66aa7d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lunatic.prefab using Guid(4b120a54760c4aa4e9e1cfa66aa7d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b26da2d02f84a1b15922a37954b3e8') in 0.022690 seconds
-  Import took 0.026148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000900 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lunatic.prefab
-  artifactKey: Guid(4b120a54760c4aa4e9e1cfa66aa7d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Lunatic.prefab using Guid(4b120a54760c4aa4e9e1cfa66aa7d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b26da2d02f84a1b15922a37954b3e8') in 0.041975 seconds
-  Import took 0.045832 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.931578 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Movie Star.prefab
-  artifactKey: Guid(c02b6101e8aabd54dbf3140b8f891c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Movie Star.prefab using Guid(c02b6101e8aabd54dbf3140b8f891c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f95094cb31659d2230b7127cc249b0') in 0.021120 seconds
-  Import took 0.024558 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001728 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Movie Star.prefab
-  artifactKey: Guid(c02b6101e8aabd54dbf3140b8f891c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Prefabs/Burgers/The Movie Star.prefab using Guid(c02b6101e8aabd54dbf3140b8f891c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f95094cb31659d2230b7127cc249b0') in 0.023786 seconds
-  Import took 0.027275 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 135.173968 seconds.
-  path: Assets/Packages/Low Poly/Models
-  artifactKey: Guid(9f54f42f8b221a24cae5c166ecc57684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly/Models using Guid(9f54f42f8b221a24cae5c166ecc57684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba59d0a106e9e1dc9da3c2bdeed8d60') in 0.008010 seconds
-  Import took 0.011352 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000888 seconds.
-  path: Assets/Packages/Low Poly/Models
-  artifactKey: Guid(9f54f42f8b221a24cae5c166ecc57684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly/Models using Guid(9f54f42f8b221a24cae5c166ecc57684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba59d0a106e9e1dc9da3c2bdeed8d60') in 0.004010 seconds
-  Import took 0.006801 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.162482 seconds.
-  path: Assets/Packages/Low Poly/Models/chair.obj
-  artifactKey: Guid(b6a1de460b9d70a419358503705d942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly/Models/chair.obj using Guid(b6a1de460b9d70a419358503705d942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78dcef545cc2029eb239c69621902c4e') in 0.111581 seconds
-  Import took 0.114498 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 77.649991 seconds.
-  path: Assets/Packages/Prefabs
-  artifactKey: Guid(51b5b315ddc2f094dab164624325f8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs using Guid(51b5b315ddc2f094dab164624325f8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0ad672f25cfe6fb0e9f0d408e4f6f9') in 0.003661 seconds
-  Import took 0.007013 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.864177 seconds.
-  path: Assets/Packages/Prefabs/Kitchen 1
-  artifactKey: Guid(ad31950e0f20d2d4da3049909d8969b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Kitchen 1 using Guid(ad31950e0f20d2d4da3049909d8969b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fc1ce783220cad079a873d522e5b89a') in 0.007284 seconds
-  Import took 0.009995 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.933072 seconds.
-  path: Assets/Packages/Prefabs/Kitchen 2
-  artifactKey: Guid(3206e92428cbc5a499da01dbc8381794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Kitchen 2 using Guid(3206e92428cbc5a499da01dbc8381794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc4f42dabd4cce78b96719e538d81ac') in 0.007542 seconds
-  Import took 0.010254 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.616455 seconds.
-  path: Assets/Packages/Prefabs/Kitchen 3
-  artifactKey: Guid(0c2631bc27ea1e248a60b9f2d7dbb4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Kitchen 3 using Guid(0c2631bc27ea1e248a60b9f2d7dbb4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ec2d99f28ccb6a869fed1b7fc58444') in 0.008577 seconds
-  Import took 0.011221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.680038 seconds.
-  path: Assets/Packages/Prefabs/Universal
-  artifactKey: Guid(0c2631bc27ea1e248a60b9f2d7dbb4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Universal using Guid(0c2631bc27ea1e248a60b9f2d7dbb4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1dffa250b99d57fd9e49a0595df830b') in 0.008625 seconds
-  Import took 0.011246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.546235 seconds.
-  path: Assets/Packages/Prefabs/Kitchen 1/Kitchen Hardware.prefab
-  artifactKey: Guid(b545b6ccad90e15489d63f7bd70caf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Kitchen 1/Kitchen Hardware.prefab using Guid(b545b6ccad90e15489d63f7bd70caf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5004e04011de81bc557a4d51d437a2') in 0.120953 seconds
-  Import took 0.126784 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.445694 seconds.
-  path: Assets/Packages/Prefabs/Kitchen 1/Kitchen 1.prefab
-  artifactKey: Guid(b545b6ccad90e15489d63f7bd70caf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Kitchen 1/Kitchen 1.prefab using Guid(b545b6ccad90e15489d63f7bd70caf37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4cd04a7492c1f16f21f024086e5d87') in 0.065613 seconds
-  Import took 0.071537 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.357780 seconds.
-  path: Assets/Cook Off/Scenes/Kitchen 2.unity
-  artifactKey: Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cook Off/Scenes/Kitchen 2.unity using Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb65686686b5bd1cb2dd37cd31625e8') in 0.003863 seconds
-  Import took 0.007141 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004131 seconds.
-  path: Assets/Cook Off/Scenes/Kitchen 2.unity
-  artifactKey: Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cook Off/Scenes/Kitchen 2.unity using Guid(ffc5fc761c5e5f041a7c853d072c2ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb65686686b5bd1cb2dd37cd31625e8') in 0.003627 seconds
-  Import took 0.007267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 105.154760 seconds.
-  path: Assets/Packages/Prefabs/Kitchen 2/Kitchen 2.prefab
-  artifactKey: Guid(3755c88e62bb71642a8a16f65b572051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Kitchen 2/Kitchen 2.prefab using Guid(3755c88e62bb71642a8a16f65b572051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a5e2192328368ef0a821928a12072e') in 0.076773 seconds
-  Import took 0.084224 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 50.569709 seconds.
-  path: Assets/Packages/Prefabs/Props
-  artifactKey: Guid(0c2631bc27ea1e248a60b9f2d7dbb4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Props using Guid(0c2631bc27ea1e248a60b9f2d7dbb4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edfd002add10643416436a5d9bdb8d00') in 0.007330 seconds
-  Import took 0.010243 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.138698 seconds.
-  path: Assets/Packages/Prefabs/Player Reference
-  artifactKey: Guid(07026cd923aed914d86aa3eed8955ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Player Reference using Guid(07026cd923aed914d86aa3eed8955ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c8b00368e1d19a3247e799b5624638') in 0.007844 seconds
-  Import took 0.011479 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.849604 seconds.
-  path: Assets/Packages/Prefabs/Player Reference/Player Reference.prefab
-  artifactKey: Guid(be5eba752222b414fb6c5f415ca83f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Player Reference/Player Reference.prefab using Guid(be5eba752222b414fb6c5f415ca83f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2522a20cd94bc4ccb75a5e31857869a') in 0.031228 seconds
-  Import took 0.034238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009794 seconds.
-  path: Assets/Packages/Prefabs/Player Reference/Player Reference.prefab
-  artifactKey: Guid(be5eba752222b414fb6c5f415ca83f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Player Reference/Player Reference.prefab using Guid(be5eba752222b414fb6c5f415ca83f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2522a20cd94bc4ccb75a5e31857869a') in 0.008930 seconds
-  Import took 0.011766 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 107.490394 seconds.
-  path: Assets/Packages/Low Poly Burger Pack/Ingredients
-  artifactKey: Guid(98c84213edb5f974fbd25c591fd397d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Low Poly Burger Pack/Ingredients using Guid(98c84213edb5f974fbd25c591fd397d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e8ed53781d8236bd9d1cbb037ed5e4') in 0.008928 seconds
-  Import took 0.012799 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 176.696281 seconds.
-  path: Assets/Packages/Prefabs/Props/Mashed Potato.prefab
-  artifactKey: Guid(7aa054d8c06c3bf42a8dc95a891f27fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Props/Mashed Potato.prefab using Guid(7aa054d8c06c3bf42a8dc95a891f27fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4a94bd4a23f7b0bd190681e6072c56') in 0.028286 seconds
-  Import took 0.031646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007658 seconds.
-  path: Assets/Packages/Prefabs/Props/Mashed Potato.prefab
-  artifactKey: Guid(7aa054d8c06c3bf42a8dc95a891f27fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Prefabs/Props/Mashed Potato.prefab using Guid(7aa054d8c06c3bf42a8dc95a891f27fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4a94bd4a23f7b0bd190681e6072c56') in 0.010143 seconds
-  Import took 0.012948 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005350 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.936 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 159.3 MB.
-System memory in use after: 159.4 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2293.
-Total: 2.011200 ms (FindLiveObjects: 0.246800 ms CreateObjectMapping: 0.094600 ms MarkObjects: 1.647700 ms  DeleteObjects: 0.021200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 250.173839 seconds.
-  path: Assets/Packages/Kitchen hardware/Cook book temp/book.FBX
-  artifactKey: Guid(009b9f48a477a2a4ab577cb2c1cf61fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Kitchen hardware/Cook book temp/book.FBX using Guid(009b9f48a477a2a4ab577cb2c1cf61fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5318ed0b92d796acc30e6d889e3ae6b1') in 0.106964 seconds
-  Import took 0.110462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 159.203016 seconds.
-  path: Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Ball.png
-  artifactKey: Guid(2c19e4cb225706240af7a8fbbf2ebfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Ball.png using Guid(2c19e4cb225706240af7a8fbbf2ebfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6aa4b9549c92be2f24dc882120d30af') in 0.038536 seconds
-  Import took 0.041757 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000423 seconds.
-  path: Assets/Mirror/Examples/Pong/Sprites/Racket.png
-  artifactKey: Guid(619ccff3ba2f2a04f9ddd19c264a1ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Pong/Sprites/Racket.png using Guid(619ccff3ba2f2a04f9ddd19c264a1ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17aa1d67f47976b3bfb89cc2c5c52e37') in 0.053299 seconds
-  Import took 0.056209 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Mirror/Examples/Pong/Sprites/DottedLine.png
-  artifactKey: Guid(1b5c0b514d8b2d24091d5aec516fe860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Pong/Sprites/DottedLine.png using Guid(1b5c0b514d8b2d24091d5aec516fe860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb71d9813caf211f5744689900bbaa1c') in 0.032448 seconds
-  Import took 0.035214 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Racket.png
-  artifactKey: Guid(bdb0ccb2f147a3d47abe396bd18c5dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Racket.png using Guid(bdb0ccb2f147a3d47abe396bd18c5dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e384304893e0ea5ce684302dc70aacb4') in 0.013522 seconds
-  Import took 0.016339 seconds .
+  Time since last request: 0.000294 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/check_background.png
+  artifactKey: Guid(8be320dfac56e264fbf765ae57aad9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/check_background.png using Guid(8be320dfac56e264fbf765ae57aad9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fb459234ca71852b67030a6889cde5') in 0.014332 seconds
+  Import took 0.016896 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000231 seconds.
-  path: Assets/Mirror/Examples/Pong/Sprites/WallVertical.png
-  artifactKey: Guid(0f2833a292a197d4fb0385a8efa1dc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Pong/Sprites/WallVertical.png using Guid(0f2833a292a197d4fb0385a8efa1dc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bacd0ce9c6ccf77d34fc526f4f681a82') in 0.032658 seconds
-  Import took 0.035593 seconds .
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND
+  artifactKey: Guid(9cac4df6544965d4ca04101f8182477b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND using Guid(9cac4df6544965d4ca04101f8182477b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add17ef8cced3899c79ae36708d1d91c') in 0.006793 seconds
+  Import took 0.009463 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Mirror/Examples/Pong/Sprites/Ball.png
-  artifactKey: Guid(4b66f21097323d44ab40669b2fb9c53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Pong/Sprites/Ball.png using Guid(4b66f21097323d44ab40669b2fb9c53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91b196a6b0cc5ece98c0734d3bed3b3d') in 0.030715 seconds
-  Import took 0.033458 seconds .
+  Time since last request: 0.000236 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/cherry_background_1.png
+  artifactKey: Guid(9e236c0d6c18f454883adb7faebce3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/cherry_background_1.png using Guid(9e236c0d6c18f454883adb7faebce3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d761e191afe39946569c72a2d9a78c2') in 0.016592 seconds
+  Import took 0.019496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/background_1.png
+  artifactKey: Guid(49d553fa6cd21ee46b37fd72f3f2e4df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/0.BACKGROUND/background_1.png using Guid(49d553fa6cd21ee46b37fd72f3f2e4df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b26fc231dc352fba62503a7ecbf7e6') in 0.050026 seconds
+  Import took 0.052631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.989642 seconds.
+  path: Assets/Cook Off/Scenes/Test UI.unity
+  artifactKey: Guid(c1eb012ec5d17cd4d8f9b60f924bfad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cook Off/Scenes/Test UI.unity using Guid(c1eb012ec5d17cd4d8f9b60f924bfad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc0897a47d7818e2f45b66b95cebb9c') in 0.008527 seconds
+  Import took 0.011270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.440834 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/option_button.png
+  artifactKey: Guid(e48c3fca072d6494c93c91944d123064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/option_button.png using Guid(e48c3fca072d6494c93c91944d123064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9163aa1ed59dc831bd4191e2ed2e9f2') in 0.017199 seconds
+  Import took 0.021637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/stage_fail_image.png
+  artifactKey: Guid(cbc747c2d5bb7f944bc338a8908de674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/stage_fail_image.png using Guid(cbc747c2d5bb7f944bc338a8908de674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527f82146510c94bd70fe9ec9a4e078b') in 0.020344 seconds
+  Import took 0.024125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/restart_button.png
+  artifactKey: Guid(cde843bc2aee4864cbedfa9b97088c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/restart_button.png using Guid(cde843bc2aee4864cbedfa9b97088c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84599d42a406f1112c4940b1be8e39c2') in 0.016588 seconds
+  Import took 0.019700 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000239 seconds.
-  path: Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallHorizontal.png
-  artifactKey: Guid(0e02a5d1b4172d444aa04f1082aed12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallHorizontal.png using Guid(0e02a5d1b4172d444aa04f1082aed12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f30b07529a6b0f6d32a6d67ae8cc12') in 0.019826 seconds
-  Import took 0.022741 seconds .
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/X_button.png
+  artifactKey: Guid(12ec4d6cf0d2dad41b0971a779f710b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/X_button.png using Guid(12ec4d6cf0d2dad41b0971a779f710b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02323304ad9018daa0a65a6e675ad479') in 0.019672 seconds
+  Import took 0.022643 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Mirror/Examples/Pong/Sprites/WallHorizontal.png
-  artifactKey: Guid(b931587800e08c54aa8dbbd6c15c894f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Pong/Sprites/WallHorizontal.png using Guid(b931587800e08c54aa8dbbd6c15c894f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1ffc2f5d5a7cf3e435029a3ee86109') in 0.025545 seconds
-  Import took 0.028419 seconds .
+  Time since last request: 0.000219 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/X_image.png
+  artifactKey: Guid(be512bea77e264546a816b41bd444a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/X_image.png using Guid(be512bea77e264546a816b41bd444a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c0735d16c956c95fb000c30e02da06') in 0.026813 seconds
+  Import took 0.029967 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/DottedLine.png
-  artifactKey: Guid(4ca12bae2c4cf2b419098a2a2026123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/DottedLine.png using Guid(4ca12bae2c4cf2b419098a2a2026123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25dfe01a7cc1303d2d82ea829fbe2a39') in 0.016627 seconds
-  Import took 0.019323 seconds .
+  Time since last request: 0.000193 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/reward_icon.png
+  artifactKey: Guid(7366ab6badd09494e9327e5d138389dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/reward_icon.png using Guid(7366ab6badd09494e9327e5d138389dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d7d49a74d2eb2d2c4f9f297ec7bd8a') in 0.015914 seconds
+  Import took 0.019109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/ribbon_2.png
+  artifactKey: Guid(000a82963f4c0534599bc896858d2b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/ribbon_2.png using Guid(000a82963f4c0534599bc896858d2b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4acc97a668b77262d6371058ad874b7d') in 0.016828 seconds
+  Import took 0.019787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/stage_clear_image.png
+  artifactKey: Guid(c17ca1b7ef25bb446b1ca1373c1bccb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/stage_clear_image.png using Guid(c17ca1b7ef25bb446b1ca1373c1bccb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f23d01736a46455876bd1e782fbd35') in 0.029642 seconds
+  Import took 0.032298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/stage1_image.png
+  artifactKey: Guid(602c1cdb41d06fc4f975eacb1564bbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/stage1_image.png using Guid(602c1cdb41d06fc4f975eacb1564bbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221f84a2931a30f67943a8d14d7aafad') in 0.017095 seconds
+  Import took 0.019652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/quit_button.png
+  artifactKey: Guid(875246d71805e864da4b4842cf5f712d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/quit_button.png using Guid(875246d71805e864da4b4842cf5f712d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548cc35f2b709e111101b849aa8ea52b') in 0.023952 seconds
+  Import took 0.027242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/song_icon.png
+  artifactKey: Guid(e8b07653987f2d44a82e218b5cf34592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/song_icon.png using Guid(e8b07653987f2d44a82e218b5cf34592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e6fdcc39e102641049e658317ed495') in 0.022405 seconds
+  Import took 0.025613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/ribbon_1.png
+  artifactKey: Guid(231d1fe1a4d7008429ef56dbb8329988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/ribbon_1.png using Guid(231d1fe1a4d7008429ef56dbb8329988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e964054e100c27843189d77d6021daa2') in 0.028754 seconds
+  Import took 0.032408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/STAGE_image.png
+  artifactKey: Guid(1c6dd8244e5ac5c478f9ccd383fe2ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/STAGE_image.png using Guid(1c6dd8244e5ac5c478f9ccd383fe2ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c482640246a56f36a45cedea3c387f7e') in 0.015336 seconds
+  Import took 0.018645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/option_button.png
+  artifactKey: Guid(e48c3fca072d6494c93c91944d123064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/option_button.png using Guid(e48c3fca072d6494c93c91944d123064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9163aa1ed59dc831bd4191e2ed2e9f2') in 0.020744 seconds
+  Import took 0.024408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/resume_button.png
+  artifactKey: Guid(87201cea37dbf6e4d9bdad42fe5b3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/resume_button.png using Guid(87201cea37dbf6e4d9bdad42fe5b3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b05e1eb0b70518a79644430896f090') in 0.027471 seconds
+  Import took 0.031549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/round_button.png
+  artifactKey: Guid(f1c75b771953d094facab0b204c89c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/round_button.png using Guid(f1c75b771953d094facab0b204c89c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d9c527c2dde6857d29bee7195ed2bc') in 0.023650 seconds
+  Import took 0.026674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/speaker_icon.png
+  artifactKey: Guid(0f0ec4f57180a95429597d01d72ea2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/speaker_icon.png using Guid(0f0ec4f57180a95429597d01d72ea2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73675ad9bf86cc5ca17347dd46e6bc8') in 0.018072 seconds
+  Import took 0.020577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/score_icon.png
+  artifactKey: Guid(8905bf9751908694bad46dc323effdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/score_icon.png using Guid(8905bf9751908694bad46dc323effdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e18954ab4ba11b9cdb43bb92799d516') in 0.016526 seconds
+  Import took 0.020151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/price_image.png
+  artifactKey: Guid(753a958ccc183034a82bd92d2ecd3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/price_image.png using Guid(753a958ccc183034a82bd92d2ecd3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676f9296d4b815d3a97bfea6e90db700') in 0.024139 seconds
+  Import took 0.027010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/setting_button.png
+  artifactKey: Guid(fecaaae31f035744f9d27d1f4413152a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/setting_button.png using Guid(fecaaae31f035744f9d27d1f4413152a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea38a7b1b3232186c630b5992575c528') in 0.022224 seconds
+  Import took 0.026345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007872 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/setting_button.png
+  artifactKey: Guid(fecaaae31f035744f9d27d1f4413152a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/setting_button.png using Guid(fecaaae31f035744f9d27d1f4413152a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea38a7b1b3232186c630b5992575c528') in 0.017283 seconds
+  Import took 0.020633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.637447 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/item_2.png
+  artifactKey: Guid(87b6eac92519e7241946f6b876864487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/item_2.png using Guid(87b6eac92519e7241946f6b876864487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100b600985fbba23ddee3e370406e1b5') in 0.019883 seconds
+  Import took 0.023829 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000243 seconds.
-  path: Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallVertical.png
-  artifactKey: Guid(f43241f798f4cf944be80d465435c252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallVertical.png using Guid(f43241f798f4cf944be80d465435c252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62752bf636b79706b68c563065be78c0') in 0.029242 seconds
-  Import took 0.032170 seconds .
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/misson_icon.png
+  artifactKey: Guid(ceed0b2ccea0dd244b035d849c763bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/misson_icon.png using Guid(ceed0b2ccea0dd244b035d849c763bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60316f879ad56f3a9bba1e1a2a274d3a') in 0.021270 seconds
+  Import took 0.028582 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 380.414581 seconds.
-  path: Assets/Packages/Art
-  artifactKey: Guid(cbee6d559694f834195ea85d3ee17e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art using Guid(cbee6d559694f834195ea85d3ee17e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '945ee409c0506203784fba4a0b92f4c5') in 0.007891 seconds
-  Import took 0.011041 seconds .
+  Time since last request: 0.000236 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/jewel.png
+  artifactKey: Guid(9c32e360653f7bf4db1427e48dfa2c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/jewel.png using Guid(9c32e360653f7bf4db1427e48dfa2c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f033901a532d0195b8774eadcb89a18') in 0.028663 seconds
+  Import took 0.031427 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.353367 seconds.
-  path: Assets/Packages/Art/Calm.PNG
-  artifactKey: Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Calm.PNG using Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2862488589f2f76d5cfa0a1cda924e96') in 0.017363 seconds
-  Import took 0.020109 seconds .
+  Time since last request: 0.000201 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/line.png
+  artifactKey: Guid(f447f92aed94d4c40ba00df13f1cdb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/line.png using Guid(f447f92aed94d4c40ba00df13f1cdb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03aeffcb209fb058db1a9bf91de23a37') in 0.016448 seconds
+  Import took 0.019684 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.030871 seconds.
-  path: Assets/Packages/Art/Calm.PNG
-  artifactKey: Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Calm.PNG using Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2862488589f2f76d5cfa0a1cda924e96') in 0.011318 seconds
-  Import took 0.014376 seconds .
+  Time since last request: 0.000239 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/nextstage_button.png
+  artifactKey: Guid(ed01aeda72c3dbf4a849c7121d9d92a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/nextstage_button.png using Guid(ed01aeda72c3dbf4a849c7121d9d92a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f40a153d6465d4cae8efcb15cf4abb3') in 0.022995 seconds
+  Import took 0.026850 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.793298 seconds.
-  path: Assets/Packages/Art/Lunatic Icon.PNG
-  artifactKey: Guid(2ffa57e5e7483d9478650b45efab1388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Lunatic Icon.PNG using Guid(2ffa57e5e7483d9478650b45efab1388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ebcf3ca753563594f9c09e3f83a712') in 0.017894 seconds
-  Import took 0.021049 seconds .
+  Time since last request: 0.000196 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/OK_button.png
+  artifactKey: Guid(045e8172cacb5f64896b1a0460fbd5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/OK_button.png using Guid(045e8172cacb5f64896b1a0460fbd5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa6d4da25e94fa7da3a1d823886e462') in 0.022643 seconds
+  Import took 0.025661 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.008692 seconds.
-  path: Assets/Packages/Art/Lunatic Icon.PNG
-  artifactKey: Guid(2ffa57e5e7483d9478650b45efab1388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Lunatic Icon.PNG using Guid(2ffa57e5e7483d9478650b45efab1388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ebcf3ca753563594f9c09e3f83a712') in 0.013935 seconds
-  Import took 0.016827 seconds .
+  Time since last request: 4.273491 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/halo_image.png
+  artifactKey: Guid(0f9edb5de47c9e54b8b309002bc45344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/halo_image.png using Guid(0f9edb5de47c9e54b8b309002bc45344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1243b42771c25dd79b3c46fab42146f') in 0.018293 seconds
+  Import took 0.021115 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.032059 seconds.
-  path: Assets/Packages/Art/Lunatic Icon.PNG
-  artifactKey: Guid(2ffa57e5e7483d9478650b45efab1388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Lunatic Icon.PNG using Guid(2ffa57e5e7483d9478650b45efab1388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c70ebac4932eef7126dcf06bd1456b8') in 0.036167 seconds
-  Import took 0.039417 seconds .
+  Time since last request: 0.000295 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/help_button.png
+  artifactKey: Guid(2953de5e41707eb45be55b5af62590ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/help_button.png using Guid(2953de5e41707eb45be55b5af62590ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd5d974845c0e48a1ba26fa7cfebff5') in 0.017565 seconds
+  Import took 0.020674 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.998055 seconds.
-  path: Assets/Packages/Art/Calm.PNG
-  artifactKey: Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Calm.PNG using Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1454e257df3d8ccf065f8581542986c7') in 0.020765 seconds
-  Import took 0.024214 seconds .
+  Time since last request: 0.000293 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/item_0_image.png
+  artifactKey: Guid(615865e1eadedff4c9a89fdd9bcebe92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/item_0_image.png using Guid(615865e1eadedff4c9a89fdd9bcebe92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b1020b6989486f55f447463b3d156e') in 0.018755 seconds
+  Import took 0.022255 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.018579 seconds.
-  path: Assets/Packages/Art/Calm.PNG
-  artifactKey: Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Calm.PNG using Guid(52ba474ca4813c84284f9d26d4da8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1454e257df3d8ccf065f8581542986c7') in 0.032334 seconds
-  Import took 0.035131 seconds .
+  Time since last request: 0.000400 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/heart_icon.png
+  artifactKey: Guid(a8d44e4ff2475e14480821133eee31bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/heart_icon.png using Guid(a8d44e4ff2475e14480821133eee31bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddacc6b89b58e02a326c7e026025fa94') in 0.033171 seconds
+  Import took 0.036477 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 177.107233 seconds.
-  path: Assets/Packages/Art/Ingridient Lunatic.PNG
-  artifactKey: Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Ingridient Lunatic.PNG using Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053b295ff7ac16954547d7197dc554e7') in 0.016648 seconds
-  Import took 0.020187 seconds .
+  Time since last request: 0.000275 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/halo_yellow_image.png
+  artifactKey: Guid(7467cfbd98f11b94ab1faf14d358b370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/halo_yellow_image.png using Guid(7467cfbd98f11b94ab1faf14d358b370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26b17570f8954f3f9d0033693353198') in 0.022786 seconds
+  Import took 0.025528 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.874572 seconds.
-  path: Assets/Packages/Art/Ingridient Lunatic.PNG
-  artifactKey: Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Ingridient Lunatic.PNG using Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf6dafdea00f875c5ae3c92e7688f08') in 0.015450 seconds
-  Import took 0.018813 seconds .
+  Time since last request: 0.000229 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/item_1_image.png
+  artifactKey: Guid(012409bc87a4fe643a753c6787cc7ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/item_1_image.png using Guid(012409bc87a4fe643a753c6787cc7ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9100a680fdea9ec8b216687442123233') in 0.026616 seconds
+  Import took 0.029869 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.015867 seconds.
-  path: Assets/Packages/Art/Ingridient Lunatic.PNG
-  artifactKey: Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Ingridient Lunatic.PNG using Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf6dafdea00f875c5ae3c92e7688f08') in 0.033472 seconds
-  Import took 0.037780 seconds .
+  Time since last request: 0.000293 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/heart_icon.png
+  artifactKey: Guid(a8d44e4ff2475e14480821133eee31bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/heart_icon.png using Guid(a8d44e4ff2475e14480821133eee31bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddacc6b89b58e02a326c7e026025fa94') in 0.015847 seconds
+  Import took 0.018412 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 206.128544 seconds.
-  path: Assets/Packages/Art/Ingridient Lunatic.PNG
-  artifactKey: Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Ingridient Lunatic.PNG using Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ec3ebb8c36c6596facad1d882354bf') in 0.016210 seconds
-  Import took 0.019232 seconds .
+  Time since last request: 0.000315 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/item_1.png
+  artifactKey: Guid(f39e4f7ed4acd8c45a80468b37278b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/item_1.png using Guid(f39e4f7ed4acd8c45a80468b37278b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a945c9fef1a545ef30195fe5ba772bb') in 0.030580 seconds
+  Import took 0.033762 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.786221 seconds.
-  path: Assets/Packages/Art/Ingridient Lunatic.PNG
-  artifactKey: Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Ingridient Lunatic.PNG using Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04591bbc594c8f65f502c235916575ca') in 0.015229 seconds
-  Import took 0.018048 seconds .
+  Time since last request: 0.074132 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/cherry_blossom.png
+  artifactKey: Guid(f753df1cf7fe2a1458d8d9e78ee58d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/3.IMAGE/cherry_blossom.png using Guid(f753df1cf7fe2a1458d8d9e78ee58d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afca62c4cbaac6ecbaec5ee92d1cb011') in 0.025046 seconds
+  Import took 0.028075 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.006874 seconds.
-  path: Assets/Packages/Art/Ingridient Lunatic.PNG
-  artifactKey: Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Packages/Art/Ingridient Lunatic.PNG using Guid(1749f227141b64643bc6add3c8784c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04591bbc594c8f65f502c235916575ca') in 0.035874 seconds
-  Import took 0.039107 seconds .
+  Time since last request: 0.000288 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/coin_icon.png
+  artifactKey: Guid(98c0ba267304b784799c2ffbec2cfafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/coin_icon.png using Guid(98c0ba267304b784799c2ffbec2cfafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a41a01101757397963f5f6a30d7c478') in 0.021006 seconds
+  Import took 0.024022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/google_button.png
+  artifactKey: Guid(b6dfd156db9181847b77b8407f81e079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/google_button.png using Guid(b6dfd156db9181847b77b8407f81e079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc42ac156ea0db963453a80450c8084') in 0.019051 seconds
+  Import took 0.022802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/fail_icon.png
+  artifactKey: Guid(e758bbaf15d9436498c99b8c3d29fd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/fail_icon.png using Guid(e758bbaf15d9436498c99b8c3d29fd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e735d174da3ad0beb6ba0fc82ad919ae') in 0.025506 seconds
+  Import took 0.028767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/gamestart_button.png
+  artifactKey: Guid(46713297d92b7d34ab296262e92c73a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/gamestart_button.png using Guid(46713297d92b7d34ab296262e92c73a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c6f71b2fa266ead5d02afc92cd7247') in 0.019232 seconds
+  Import took 0.022612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/gamecenter_button.png
+  artifactKey: Guid(4d7bccbdc49dd264a86ba1aca0327e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/1.BUTTON/gamecenter_button.png using Guid(4d7bccbdc49dd264a86ba1aca0327e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72c34fbffb5ffd168e79fcf6ccd1962') in 0.028755 seconds
+  Import took 0.031853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.899056 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/check_icon.png
+  artifactKey: Guid(2ad59e60e9a41774085ff0a037f83eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/check_icon.png using Guid(2ad59e60e9a41774085ff0a037f83eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4af0425820550671acc9c1eef7ba9e3') in 0.017867 seconds
+  Import took 0.021181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139460 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/7_image.png
+  artifactKey: Guid(e30188085d96bf248ace548096396382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/7_image.png using Guid(e30188085d96bf248ace548096396382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2813dfc7c3692cbc3fe17a3df5a65986') in 0.019454 seconds
+  Import took 0.022263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/8_image.png
+  artifactKey: Guid(d8160def3eafcb745b8699b3f925ee3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/8_image.png using Guid(d8160def3eafcb745b8699b3f925ee3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4a3ce49e395318d2e1639c76b9680d') in 0.015061 seconds
+  Import took 0.018055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/alarm_icon.png
+  artifactKey: Guid(fbe8df196d14c7644b6d4d748b44fa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/2.ICON/alarm_icon.png using Guid(fbe8df196d14c7644b6d4d748b44fa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b3af8b8b23fe8e50df6b14105d8db9') in 0.026871 seconds
+  Import took 0.029592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/9_image.png
+  artifactKey: Guid(a32594fc83314da458000257ca6673f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/9_image.png using Guid(a32594fc83314da458000257ca6673f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27fe9bd21dbf7af2df18d3d134864281') in 0.023676 seconds
+  Import took 0.026662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.266741 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/0_image.png
+  artifactKey: Guid(8a08b9446b9d238468bf556c761f982c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/0_image.png using Guid(8a08b9446b9d238468bf556c761f982c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6b6abd47b8dd4f97bd5f9487a97cb7') in 0.026458 seconds
+  Import took 0.029639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/1_image.png
+  artifactKey: Guid(226e3db127f8d0c46bb30c1a4b2e2387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/1_image.png using Guid(226e3db127f8d0c46bb30c1a4b2e2387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21c43eac2c00359b21fad603d194cb1') in 0.018536 seconds
+  Import took 0.022140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/6_image.png
+  artifactKey: Guid(b44995b587ba3034199f65fabcfbe0d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/6_image.png using Guid(b44995b587ba3034199f65fabcfbe0d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0174908bae5c552753db12573dbf85a') in 0.016674 seconds
+  Import took 0.019995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/3_image.png
+  artifactKey: Guid(6a8f40a9b0fd9094ba78b5c7093e8227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/3_image.png using Guid(6a8f40a9b0fd9094ba78b5c7093e8227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadd8e379814118d3903956319af718b') in 0.022298 seconds
+  Import took 0.025314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/2_image.png
+  artifactKey: Guid(2741d184c9aea4443b64e14ccd7da25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/2_image.png using Guid(2741d184c9aea4443b64e14ccd7da25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681b7d9def49bbb23ea095efdb1536f8') in 0.020868 seconds
+  Import took 0.024158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/4_image.png
+  artifactKey: Guid(bfed3f3770fbebb4b9b15996cde77d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/4_image.png using Guid(bfed3f3770fbebb4b9b15996cde77d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95aea67011dc0de97bed246a6ce43aec') in 0.029877 seconds
+  Import took 0.033238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/3_image.png
+  artifactKey: Guid(6a8f40a9b0fd9094ba78b5c7093e8227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/3_image.png using Guid(6a8f40a9b0fd9094ba78b5c7093e8227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadd8e379814118d3903956319af718b') in 0.012066 seconds
+  Import took 0.014789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/5_image.png
+  artifactKey: Guid(766595156b8606a439db3b12567e9e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/5_image.png using Guid(766595156b8606a439db3b12567e9e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ffe526687b052a04c9a88807b053c4') in 0.026402 seconds
+  Import took 0.029105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/4_image.png
+  artifactKey: Guid(bfed3f3770fbebb4b9b15996cde77d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/4_image.png using Guid(bfed3f3770fbebb4b9b15996cde77d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95aea67011dc0de97bed246a6ce43aec') in 0.015324 seconds
+  Import took 0.017993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015124 seconds.
+  path: Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/5_image.png
+  artifactKey: Guid(766595156b8606a439db3b12567e9e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/5_image.png using Guid(766595156b8606a439db3b12567e9e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ffe526687b052a04c9a88807b053c4') in 0.015460 seconds
+  Import took 0.018404 seconds .
 
