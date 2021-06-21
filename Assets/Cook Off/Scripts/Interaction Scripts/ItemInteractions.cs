@@ -2,38 +2,36 @@ using UnityEngine;
 
 public class ItemInteractions : MonoBehaviour
 {
-    private const string itemLayer = "Interactable";
-    private const string bacon = "Bacon";
-    [SerializeField] private Transform hand;
+    [SerializeField] private Transform pickupPoint;
     
     void Update() {
+        
+        
         Interact();
     }
 
     public void Interact() {
-        Ray ray = new Ray(transform.position + transform.forward * 0.5f, transform.forward);
+        Ray ray = new Ray(transform.position, -transform.right * 50);
         RaycastHit hitInfo;
-        int layerMask = LayerMask.NameToLayer(itemLayer);
 
-        //Moving binary 1 over to the left, method 1 if dont want to search for the name of layer
-        //Actually turning it into a layer and not a value
-        layerMask = 1 << layerMask;
+        Debug.DrawRay(transform.position, -transform.right * 50, Color.blue);
 
-        Debug.DrawRay(transform.position, transform.forward * 50, Color.magenta);
-        //If Ray hits something
-        if (Physics.Raycast(ray, out hitInfo, Mathf.Infinity, layerMask))
+        if (Physics.Raycast(ray, out hitInfo, Mathf.Infinity))
         {
             //Grab food from fridge
-            if (hitInfo.collider.gameObject.name.Equals(bacon))
+            if (hitInfo.collider.TryGetComponent(out FoodItem item))
             {
-                SetFoodParent(hitInfo.collider.gameObject, hand);
-                //Debug that we hit a food    
-                Debug.Log($"Got {gameObject.name} out of the fridge!");
+                if (item != null && Input.GetMouseButton(0))
+                {
+                    item.transform.parent = pickupPoint.transform;
+                }
+                else
+                {
+                    print("Let go of item");
+                    item.transform.parent = null;
+                    item.GetComponent<Rigidbody>().useGravity = true;
+                }
             }
         }
-    }
-
-    public void SetFoodParent(GameObject child, Transform newParent) {
-        child.transform.SetParent(newParent);
     }
 }

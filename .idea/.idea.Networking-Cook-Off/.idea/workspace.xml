@@ -11,6 +11,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Menus/OptionsMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Player/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Inventory/ItemManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/I/RCBoid-Sim/RC_Boid-Sim-Base-Project/Assets/RC-Boid-Sim/Code/UI/FollowMouse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Inventory/InWorldItems.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Inventory/ItemData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/CameraFollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -27,6 +33,7 @@
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/ItemInteractions.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/InteractBase.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/CameraFollowMouse.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/ItemInteractions.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1se3h2h9hSZtvOEIRNyG8Unkslk" />
@@ -79,6 +86,7 @@
       <workItem from="1621819300931" duration="5424000" />
       <workItem from="1622430181437" duration="69000" />
       <workItem from="1623902272803" duration="649000" />
+      <workItem from="1624244753298" duration="3083000" />
     </task>
     <servers />
   </component>

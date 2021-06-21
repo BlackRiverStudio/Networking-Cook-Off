@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8974608218311687709}
   - component: {fileID: 8974608218311687706}
   - component: {fileID: 8974608218311687707}
+  - component: {fileID: 222020000}
   m_Layer: 0
   m_Name: Right Hand
   m_TagString: Untagged
@@ -95,6 +96,19 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &222020000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8974608218311687705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b672a71135a954990ba0d0c29e97da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickupPoint: {fileID: 8974608218311687704}
 --- !u!1 &8974608218422466110
 GameObject:
   m_ObjectHideFlags: 0
@@ -107,9 +121,7 @@ GameObject:
   - component: {fileID: 8974608218422466115}
   - component: {fileID: 8974608218422466112}
   - component: {fileID: 8974608218422466113}
-  - component: {fileID: 1361084553}
   - component: {fileID: 1737452423}
-  - component: {fileID: 1737452424}
   m_Layer: 0
   m_Name: Player Ref
   m_TagString: Untagged
@@ -198,19 +210,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1361084553
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8974608218422466110}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84b672a71135a954990ba0d0c29e97da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hand: {fileID: 8974608219917046787}
 --- !u!114 &1737452423
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -224,24 +223,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveAction: {fileID: -5887704180710620808, guid: 703536f2acaa3e948a9a9f8a1eaad601, type: 3}
---- !u!114 &1737452424
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8974608218422466110}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c2b720189f627be4e8ab913bba38041d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  midPoint: {fileID: 8974608219763883850}
-  leftHand: {fileID: 8974608219917046787}
-  rightHand: {fileID: 8974608218311687704}
-  offsetPosition: {x: 0, y: 0, z: 0}
-  smooth: 0
-  smoothSpeed: 0.125
 --- !u!1 &8974608218543472973
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,7 +407,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8974608219763883849}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a3cd22dfbc1e0f458400649622bc486, type: 3}
   m_Name: 
@@ -446,6 +427,7 @@ GameObject:
   - component: {fileID: 8974608219917046788}
   - component: {fileID: 8974608219917046789}
   - component: {fileID: 8974608219917046786}
+  - component: {fileID: 8974608219551109508}
   m_Layer: 0
   m_Name: Left Hand
   m_TagString: Untagged
@@ -529,3 +511,16 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8974608219551109508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8974608219917046784}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b672a71135a954990ba0d0c29e97da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickupPoint: {fileID: 8974608219917046787}

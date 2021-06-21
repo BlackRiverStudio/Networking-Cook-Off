@@ -22,6 +22,7 @@ public class CameraFollowMouse : MonoBehaviour
     // Update is called once per frame
     void Update() {
         FollowMouseInput();
+        Cursor.lockState = CursorLockMode.Confined; //Confine cursor to game window
     }
 
 
