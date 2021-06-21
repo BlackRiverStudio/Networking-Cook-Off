@@ -13,11 +13,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Menus/OptionsMenu.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/RaycastCamInteract.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Non Networked Delta Sky IX/Assets/Player/UI/[Menu Scripts]/MainUIManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Player/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Non Networked Delta Sky IX/Assets/Player/UI/[Menu Scripts]/InGameUI.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Inventory/ItemManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Desktop/I/RCBoid-Sim/RC_Boid-Sim-Base-Project/Assets/RC-Boid-Sim/Code/UI/FollowMouse.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Inventory/InWorldItems.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Cert IV GIT/UI-GIT/Assets/Scripts/Inventory/ItemData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cook Off/Scripts/UI/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/CameraFollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -39,6 +42,8 @@
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/ItemInteractions.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/RaycastCamInteract.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/PickUpFood.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/UI/Options.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/UI/MainMenu.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1se3h2h9hSZtvOEIRNyG8Unkslk" />
@@ -92,7 +97,7 @@
       <workItem from="1622430181437" duration="69000" />
       <workItem from="1623902272803" duration="649000" />
       <workItem from="1624244753298" duration="7030000" />
-      <workItem from="1624256193111" duration="1542000" />
+      <workItem from="1624256193111" duration="3531000" />
     </task>
     <servers />
   </component>
