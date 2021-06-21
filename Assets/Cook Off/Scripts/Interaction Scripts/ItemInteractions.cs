@@ -5,8 +5,6 @@ public class ItemInteractions : MonoBehaviour
     [SerializeField] private Transform pickupPoint;
     
     void Update() {
-        
-        
         Interact();
     }
 
@@ -23,13 +21,7 @@ public class ItemInteractions : MonoBehaviour
             {
                 if (item != null && Input.GetMouseButton(0))
                 {
-                    item.transform.parent = pickupPoint.transform;
-                }
-                else
-                {
-                    print("Let go of item");
-                    item.transform.parent = null;
-                    item.GetComponent<Rigidbody>().useGravity = true;
+                    item.transform.position = pickupPoint.position;
                 }
             }
         }

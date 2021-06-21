@@ -33,7 +33,10 @@
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/ItemInteractions.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/InteractBase.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/CameraFollowMouse.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/PlayerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/ItemInteractions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/DragObjectTest.cs" />
+      <option value="$PROJECT_DIR$/Assets/Cook Off/Scripts/Interaction Scripts/PickUpFood.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1se3h2h9hSZtvOEIRNyG8Unkslk" />
@@ -86,7 +89,7 @@
       <workItem from="1621819300931" duration="5424000" />
       <workItem from="1622430181437" duration="69000" />
       <workItem from="1623902272803" duration="649000" />
-      <workItem from="1624244753298" duration="3083000" />
+      <workItem from="1624244753298" duration="5276000" />
     </task>
     <servers />
   </component>

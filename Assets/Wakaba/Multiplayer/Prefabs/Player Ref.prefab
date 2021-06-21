@@ -222,7 +222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8ac2f7b3debdb448a074344c4ea60a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveAction: {fileID: -5887704180710620808, guid: 703536f2acaa3e948a9a9f8a1eaad601, type: 3}
+  speed: 0.1
 --- !u!1 &8974608218543472973
 GameObject:
   m_ObjectHideFlags: 0

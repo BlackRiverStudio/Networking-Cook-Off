@@ -1,15 +1,18 @@
 using UnityEngine;
-using InputActionRef = UnityEngine.InputSystem.InputActionReference;
+
 namespace CookOff
 {
     public class PlayerController : MonoBehaviour
     {
-        [SerializeField] private InputActionRef moveAction;
-        private void Start() => moveAction.action.ReadValue<Vector2>();
-        private void Update()
-        {
-            transform.position += transform.right * Time.deltaTime * moveAction.action.ReadValue<Vector2>().x;
-            transform.position += transform.forward * Time.deltaTime * moveAction.action.ReadValue<Vector2>().y;
+        public float speed;
+
+        private void Update() {
+            //Move player only side to side on Z Axis 
+            float zDirection = Input.GetAxis("Horizontal");
+
+            Vector3 moveDirection = new Vector3(0f, 0f, zDirection);
+
+            transform.position += moveDirection * speed;
         }
     }
 }
