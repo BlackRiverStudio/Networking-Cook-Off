@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class PickUpFood : MonoBehaviour
@@ -24,7 +23,6 @@ public class PickUpFood : MonoBehaviour
     }
 
     private void OnMouseUp() {
-        //Let go of object
         transform.parent = null;
     }
 }
