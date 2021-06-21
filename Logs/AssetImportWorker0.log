@@ -846,3 +846,4 @@ Received Import Request.
 Start importing Assets/Packages/Art/CHERRY BLOSSOM/4.NUMBER_IMAGE/5_image.png using Guid(766595156b8606a439db3b12567e9e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ffe526687b052a04c9a88807b053c4') in 0.015460 seconds
   Import took 0.018404 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
