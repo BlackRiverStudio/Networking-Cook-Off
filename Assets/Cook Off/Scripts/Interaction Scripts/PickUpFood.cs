@@ -5,15 +5,10 @@ public class PickUpFood : MonoBehaviour
 {
     private Vector3 mouseOffset;
     private float mouseZCoordinates;
-    public Camera mainCam;
     public Transform hand;
 
-    private void Start() {
-        gameObject.GetComponent<FoodItem>();
-    }
-
     private void OnMouseDown() { 
-    mouseZCoordinates = mainCam.WorldToScreenPoint(gameObject.transform.position).z;
+    mouseZCoordinates = Camera.main.WorldToScreenPoint(gameObject.transform.position).z;
     mouseOffset = gameObject.transform.position - GetMouseWorldPos();
     }
 
@@ -25,7 +20,7 @@ public class PickUpFood : MonoBehaviour
     private Vector3 GetMouseWorldPos() {
         Vector3 mousePoint = Input.mousePosition;
         mousePoint.z = mouseZCoordinates;
-        return mainCam.ScreenToWorldPoint(mousePoint);
+        return Camera.main.ScreenToWorldPoint(mousePoint);
     }
 
     private void OnMouseUp() {
